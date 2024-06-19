@@ -48,7 +48,7 @@ Stay ahead of the competition with our constantly updated dataset of available .
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
-![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/ai-oneword-domains/blob/main/unique.domains.png?raw=true)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/ai-oneword-domains/blob/main/unique.domains.png?raw=true)](https://unique.domains)
 
 > [!TIP]
 > Give a star on this repo to get a free pass on unique.domains.

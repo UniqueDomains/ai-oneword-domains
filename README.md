@@ -44,3 +44,6 @@ Stay ahead of the competition with our constantly updated dataset of available .
 # Get More Domains on [unique.domains](https://unique.domains)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
+
+> [!TIP]
+> Give a star on this repo to get a free pass on unique.domains.

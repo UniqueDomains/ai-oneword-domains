@@ -1,4 +1,4 @@
-# Daily Updated List of Available .ai One-Word Domain Names
+# .ai One-Word Domain Names: Daily Updated List of Available Domains
 
 Stay ahead of the competition with our constantly updated dataset of available .ai one-word domain names. This exclusive list provides you with the latest available domains, complete with prices and direct buy links.
 

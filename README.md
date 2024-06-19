@@ -13,6 +13,9 @@ Stay ahead of the competition with our constantly updated dataset of available .
 - **Available On**: The platform on which the domain is available. It can be a registrar or a domains marketplace.
 - **Price**: Best market price for each domain in dollars.
 - **Buy Link**: Direct link to purchase the domain.
+- **Industries**: 1 from 3 industries related to the domain name
+
+![List of 10,000 available .ai one-word domain names](https://raw.githubusercontent.com/UniqueDomains/ai-oneword-domains/main/preview.png)
 
 # You will love this dataset if you're a:
 

@@ -4,7 +4,7 @@ This regularly updated dataset includes the latest available .ai one-word domain
 
 > [!TIP]
 > This dataset provide you 10,000 high quality domains.
-> If you need more, access the full list of domains and filter them on **[unique.domains](https://unique.domains)** (Available filters: keywords, industry, popularity, brandability, sentiment & price)
+> If you need more, access the full list of domains and filter them on **[unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=.ai&utm_content=description.top)** (Available filters: keywords, industry, popularity, brandability, sentiment & price)
 
 # What's Included in the Dataset
 
@@ -44,11 +44,11 @@ This regularly updated dataset includes the latest available .ai one-word domain
 - **Domain Flipping**: Identify and purchase undervalued .ai domains to resell at a profit.
 - **Portfolio Expansion**: Enhance your domain investment portfolio with premium one-word .ai domains.
 
-# Get More Domains on [unique.domains](https://unique.domains)
+# Get More Domains on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=.ai&utm_content=description.bottom)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/ai-oneword-domains/blob/main/unique.domains.png?raw=true)](https://unique.domains)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/ai-oneword-domains/blob/main/unique.domains.png?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=.ai&utm_content=description.image)
 
 > [!TIP]
 > Give a star on this repo to get a free pass on unique.domains.

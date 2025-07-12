@@ -19,18 +19,18 @@ This regularly updated dataset includes the latest available ai one-word domains
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain               | status    | attractiveness | demand | length | created                                                            | expires                                                            | registrar              |
-| -------------------- | --------- | -------------- | ------ | ------ | ------------------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------- |
-| nanometre.ai         | resell    | 54             | 72     | 9      | Sun Feb 23 2025 09:33:49 GMT+0100 (Central European Standard Time) | Tue Feb 23 2027 09:33:49 GMT+0100 (Central European Standard Time) | Porkbun LLC            |
-| Ellery.ai            | available | 50             | 72     | 6      |                                                                    |                                                                    |                        |
-| Elmo.ai              | resell    | 64             | 80     | 4      | Fri Dec 15 2017 23:02:39 GMT+0100 (Central European Standard Time) | Tue Jun 08 2027 23:02:39 GMT+0200 (Central European Summer Time)   | Deep Vision Architects |
-| matchsticks.ai       | available | 38             | 16     | 11     |                                                                    |                                                                    |                        |
-| collectingsociety.ai | available | 54             | 72     | 18     |                                                                    |                                                                    |                        |
-| accustomed.ai        | available | 72             | 72     | 10     |                                                                    |                                                                    |                        |
-| doubletake.ai        | sold      | 58             | 80     | 11     | Tue Jul 01 2025 22:48:14 GMT+0200 (Central European Summer Time)   | Thu Jul 01 2027 22:48:14 GMT+0200 (Central European Summer Time)   | Dynadot Inc            |
-| happyholidays.ai     | available | 48             | 84     | 14     |                                                                    |                                                                    |                        |
-| freevariation.ai     | available | 54             | 72     | 14     |                                                                    |                                                                    |                        |
-| irishstew.ai         | available | 70             | 72     | 10     |                                                                    |                                                                    |                        |
+| domain               | status    | attractiveness | demand | length | created          | expires          | registrar              |
+| -------------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ---------------------- |
+| nanometre.ai         | resell    | 54             | 72     | 9      | 23/02/2025 09:33 | 23/02/2027 09:33 | Porkbun LLC            |
+| Ellery.ai            | available | 50             | 72     | 6      |                  |                  |                        |
+| Elmo.ai              | resell    | 64             | 80     | 4      | 15/12/2017 23:02 | 08/06/2027 23:02 | Deep Vision Architects |
+| matchsticks.ai       | available | 38             | 16     | 11     |                  |                  |                        |
+| collectingsociety.ai | available | 54             | 72     | 18     |                  |                  |                        |
+| accustomed.ai        | available | 72             | 72     | 10     |                  |                  |                        |
+| doubletake.ai        | sold      | 58             | 80     | 11     | 01/07/2025 22:48 | 01/07/2027 22:48 | Dynadot Inc            |
+| happyholidays.ai     | available | 48             | 84     | 14     |                  |                  |                        |
+| freevariation.ai     | available | 54             | 72     | 14     |                  |                  |                        |
+| irishstew.ai         | available | 70             | 72     | 10     |                  |                  |                        |
 
 # You will love this dataset if you're a:
 

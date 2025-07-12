@@ -19,18 +19,18 @@ This regularly updated dataset includes the latest available .ai one-word domain
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain        | status    | attractiveness | demand | length | created          | expires          | registrar             | sectors                                |
-| ------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | --------------------- | -------------------------------------- |
-| secret.ai     | resell    | 112            | 80     | 6      | 16/12/2017 03:48 | 12/09/2026 03:48 | NameCheap, Inc.       | Entertainment,General,Media,Technology |
-| funny.ai      | resell    | 111            | 96     | 5      | 16/12/2017 01:42 | 21/07/2027 01:42 | NameCheap, Inc.       | Arts,Entertainment,Media               |
-| equivalent.ai | resell    | 110            | 84     | 10     | 11/08/2022 18:04 | 11/08/2026 18:04 | NameCheap, Inc.       | Mathematics,Science,Technology         |
-| slope.ai      | resell    | 110            | 88     | 5      | 03/03/2025 16:23 | 03/03/2027 16:23 | NameCheap, Inc.       | Construction,Engineering,Geography     |
-| fax.ai        | resell    | 110            | 88     | 3      | 16/12/2017 02:32 | 29/12/2028 02:32 | Lemonev               | Business,Technology,Telecommunications |
-| outward.ai    | resell    | 110            | 80     | 7      | 19/03/2019 18:23 | 19/03/2029 18:23 | NameCheap, Inc.       | Business,Media                         |
-| whoosh.ai     | resell    | 108            | 92     | 6      | 19/10/2021 09:51 | 19/10/2025 09:51 | 101domain GRS Limited | Entertainment,Media,Sports             |
-| parable.ai    | resell    | 102            | 80     | 7      | 18/06/2018 06:44 | 18/06/2026 06:44 | NameCheap, Inc.       | Arts,Education                         |
-| steep.ai      | resell    | 100            | 84     | 5      | 12/12/2020 07:00 | 12/12/2026 07:00 | NameCheap, Inc.       | Food and Beverage,Real Estate,Travel   |
-| intersex.ai   | available | 92             | 72     | 8      |                  |                  |                       | Education,Healthcare,Media             |
+| domain       | status   | attractiveness | demand | length | created          | expires          | registrar        | sectors                                      |
+| ------------ | -------- | -------------- | ------ | ------ | ---------------- | ---------------- | ---------------- | -------------------------------------------- |
+| why.ai       | resell   | 118            | 84     | 3      | 16/12/2017 02:35 | 15/09/2025 02:35 | Zenaida.cate.ai  | Education,Humanities,Media                   |
+| wizard.ai    | resell   | 118            | 92     | 6      | 15/12/2017 22:12 | 25/08/2027 22:12 | Porkbun LLC      | Entertainment,Media,Technology               |
+| chocolate.ai | resell   | 118            | 88     | 9      | 16/12/2017 01:26 | 05/04/2027 01:26 | Lemonev          | Food and Beverage,Hospitality,Retail         |
+| flat.ai      | resell   | 116            | 92     | 4      | 16/12/2017 04:49 | 28/06/2027 04:49 | NameCheap, Inc.  | Construction,Real Estate                     |
+| enough.ai    | resell   | 114            | 84     | 6      | 10/06/2025 02:10 | 10/06/2027 02:10 | NameCheap, Inc.  | Business,Education,General,Retail            |
+| secret.ai    | resell   | 112            | 80     | 6      | 16/12/2017 03:48 | 12/09/2026 03:48 | NameCheap, Inc.  | Entertainment,General,Media,Technology       |
+| term.ai      | expiring | 112            | 92     | 4      | 15/12/2017 22:29 | 26/07/2025 22:29 | Key-Systems GmbH | Business,Education,Technology                |
+| grape.ai     | resell   | 112            | 84     | 5      | 16/12/2017 03:28 | 06/12/2026 03:28 | Porkbun LLC      | Agriculture,Food and Beverage,Retail         |
+| funny.ai     | resell   | 111            | 96     | 5      | 16/12/2017 01:42 | 21/07/2027 01:42 | NameCheap, Inc.  | Arts,Entertainment,Media                     |
+| lunch.ai     | resell   | 111            | 80     | 5      | 29/04/2018 12:12 | 29/04/2026 12:12 | NameCheap, Inc.  | Food and Beverage,General,Hospitality,Retail |
 
 # You will love this dataset if you're a:
 

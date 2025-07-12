@@ -1,7 +1,7 @@
 
-# ai One-Word Domain Names: Daily Updated List of Available Domains
+# .ai One-Word Domain Names: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available ai one-word domains, as well as prices, purchase links and a list of sectors attributed to the domain.
+This regularly updated dataset includes the latest available .ai one-word domains.
 
 > [!TIP]
 > This dataset provide you 10,000 high quality one word domains.
@@ -19,18 +19,18 @@ This regularly updated dataset includes the latest available ai one-word domains
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain        | status    | attractiveness | demand | length | created          | expires          | registrar             |
-| ------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | --------------------- |
-| secret.ai     | resell    | 112            | 80     | 6      | 16/12/2017 03:48 | 12/09/2026 03:48 | NameCheap, Inc.       |
-| funny.ai      | resell    | 111            | 96     | 5      | 16/12/2017 01:42 | 21/07/2027 01:42 | NameCheap, Inc.       |
-| equivalent.ai | resell    | 110            | 84     | 10     | 11/08/2022 18:04 | 11/08/2026 18:04 | NameCheap, Inc.       |
-| slope.ai      | resell    | 110            | 88     | 5      | 03/03/2025 16:23 | 03/03/2027 16:23 | NameCheap, Inc.       |
-| fax.ai        | resell    | 110            | 88     | 3      | 16/12/2017 02:32 | 29/12/2028 02:32 | Lemonev               |
-| outward.ai    | resell    | 110            | 80     | 7      | 19/03/2019 18:23 | 19/03/2029 18:23 | NameCheap, Inc.       |
-| whoosh.ai     | resell    | 108            | 92     | 6      | 19/10/2021 09:51 | 19/10/2025 09:51 | 101domain GRS Limited |
-| parable.ai    | resell    | 102            | 80     | 7      | 18/06/2018 06:44 | 18/06/2026 06:44 | NameCheap, Inc.       |
-| steep.ai      | resell    | 100            | 84     | 5      | 12/12/2020 07:00 | 12/12/2026 07:00 | NameCheap, Inc.       |
-| intersex.ai   | available | 92             | 72     | 8      |                  |                  |                       |
+| domain        | status    | attractiveness | demand | length | created          | expires          | registrar             | sectors                                |
+| ------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | --------------------- | -------------------------------------- |
+| secret.ai     | resell    | 112            | 80     | 6      | 16/12/2017 03:48 | 12/09/2026 03:48 | NameCheap, Inc.       | Entertainment,General,Media,Technology |
+| funny.ai      | resell    | 111            | 96     | 5      | 16/12/2017 01:42 | 21/07/2027 01:42 | NameCheap, Inc.       | Arts,Entertainment,Media               |
+| equivalent.ai | resell    | 110            | 84     | 10     | 11/08/2022 18:04 | 11/08/2026 18:04 | NameCheap, Inc.       | Mathematics,Science,Technology         |
+| slope.ai      | resell    | 110            | 88     | 5      | 03/03/2025 16:23 | 03/03/2027 16:23 | NameCheap, Inc.       | Construction,Engineering,Geography     |
+| fax.ai        | resell    | 110            | 88     | 3      | 16/12/2017 02:32 | 29/12/2028 02:32 | Lemonev               | Business,Technology,Telecommunications |
+| outward.ai    | resell    | 110            | 80     | 7      | 19/03/2019 18:23 | 19/03/2029 18:23 | NameCheap, Inc.       | Business,Media                         |
+| whoosh.ai     | resell    | 108            | 92     | 6      | 19/10/2021 09:51 | 19/10/2025 09:51 | 101domain GRS Limited | Entertainment,Media,Sports             |
+| parable.ai    | resell    | 102            | 80     | 7      | 18/06/2018 06:44 | 18/06/2026 06:44 | NameCheap, Inc.       | Arts,Education                         |
+| steep.ai      | resell    | 100            | 84     | 5      | 12/12/2020 07:00 | 12/12/2026 07:00 | NameCheap, Inc.       | Food and Beverage,Real Estate,Travel   |
+| intersex.ai   | available | 92             | 72     | 8      |                  |                  |                       | Education,Healthcare,Media             |
 
 # You will love this dataset if you're a:
 

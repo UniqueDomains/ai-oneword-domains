@@ -5,7 +5,7 @@ This regularly updated dataset includes the latest available ai one-word domains
 
 > [!TIP]
 > This dataset provide you 10,000 high quality one word domains.
-> If you need more, access the full list of domains and filter them on **[unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=.ai&utm_content=description.top)** (Available filters: keywords, industry, popularity, brandability, sentiment & price)
+> If you need more, access the complete database on **[unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=.ai&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
@@ -19,18 +19,18 @@ This regularly updated dataset includes the latest available ai one-word domains
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain               | status    | attractiveness | demand | length | created          | expires          | registrar              |
-| -------------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ---------------------- |
-| nanometre.ai         | resell    | 54             | 72     | 9      | 23/02/2025 09:33 | 23/02/2027 09:33 | Porkbun LLC            |
-| Ellery.ai            | available | 50             | 72     | 6      |                  |                  |                        |
-| Elmo.ai              | resell    | 64             | 80     | 4      | 15/12/2017 23:02 | 08/06/2027 23:02 | Deep Vision Architects |
-| matchsticks.ai       | available | 38             | 16     | 11     |                  |                  |                        |
-| collectingsociety.ai | available | 54             | 72     | 18     |                  |                  |                        |
-| accustomed.ai        | available | 72             | 72     | 10     |                  |                  |                        |
-| doubletake.ai        | sold      | 58             | 80     | 11     | 01/07/2025 22:48 | 01/07/2027 22:48 | Dynadot Inc            |
-| happyholidays.ai     | available | 48             | 84     | 14     |                  |                  |                        |
-| freevariation.ai     | available | 54             | 72     | 14     |                  |                  |                        |
-| irishstew.ai         | available | 70             | 72     | 10     |                  |                  |                        |
+| domain        | status    | attractiveness | demand | length | created          | expires          | registrar             |
+| ------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | --------------------- |
+| secret.ai     | resell    | 112            | 80     | 6      | 16/12/2017 03:48 | 12/09/2026 03:48 | NameCheap, Inc.       |
+| funny.ai      | resell    | 111            | 96     | 5      | 16/12/2017 01:42 | 21/07/2027 01:42 | NameCheap, Inc.       |
+| equivalent.ai | resell    | 110            | 84     | 10     | 11/08/2022 18:04 | 11/08/2026 18:04 | NameCheap, Inc.       |
+| slope.ai      | resell    | 110            | 88     | 5      | 03/03/2025 16:23 | 03/03/2027 16:23 | NameCheap, Inc.       |
+| fax.ai        | resell    | 110            | 88     | 3      | 16/12/2017 02:32 | 29/12/2028 02:32 | Lemonev               |
+| outward.ai    | resell    | 110            | 80     | 7      | 19/03/2019 18:23 | 19/03/2029 18:23 | NameCheap, Inc.       |
+| whoosh.ai     | resell    | 108            | 92     | 6      | 19/10/2021 09:51 | 19/10/2025 09:51 | 101domain GRS Limited |
+| parable.ai    | resell    | 102            | 80     | 7      | 18/06/2018 06:44 | 18/06/2026 06:44 | NameCheap, Inc.       |
+| steep.ai      | resell    | 100            | 84     | 5      | 12/12/2020 07:00 | 12/12/2026 07:00 | NameCheap, Inc.       |
+| intersex.ai   | available | 92             | 72     | 8      |                  |                  |                       |
 
 # You will love this dataset if you're a:
 

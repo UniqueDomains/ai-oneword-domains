@@ -3,6 +3,8 @@
 
 This regularly updated dataset includes the latest available .ai one-word domains.
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]() 
+
 > [!TIP]
 > This dataset provide you 10,000 high quality one word domains.
 > If you need more, access the complete database on **[unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=.ai&utm_content=description.top)**.

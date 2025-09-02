@@ -46,7 +46,7 @@ If you want to search & filters the complete database of [.AI one word domains](
 | abdicable.ai       | available | 50       | 1%     | 9      |                 |                  |                  |
 | Abdinasir.ai       | available | 46       | 72%    | 9      |                 |                  |                  |
 | Abdollah.ai        | available | 46       | 72%    | 8      |                 |                  |                  |
-| abdominal.ai       | available | 82       | 2%     | 9      |                 |                  |                  |
+| abdominal.ai       | available | 82       | 1%     | 9      |                 |                  |                  |
 | abdominalcavity.ai | available | 54       | 72%    | 16     |                 |                  |                  |
 | abdominalwall.ai   | available | 54       | 72%    | 14     |                 |                  |                  |
 | abdominous.ai      | available | 56       | 1%     | 10     |                 |                  |                  |

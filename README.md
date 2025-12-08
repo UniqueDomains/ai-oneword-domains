@@ -37,6 +37,7 @@ If you want to search & filters the complete database of [.AI one word domains](
 | abbotcy.ai         | available | 56       | 72%    | 7      |                 |                  |                  |
 | abbreviate.ai      | resell    | 92       | 76%    | 10     | NameCheap, Inc. | 15/03/2025 19:30 | 15/03/2027 19:30 |
 | abbreviater.ai     | available | 56       | 72%    | 11     |                 |                  |                  |
+| abc.ai             | resell    | 102      | 39%    | 3      | Dynadot Inc     | 16/12/2017 01:04 | 13/03/2028 01:04 |
 | abcconjecture.ai   | available | 56       | 4%     | 14     |                 |                  |                  |
 | ABCexporter.ai     | available | 43       | 72%    | 12     |                 |                  |                  |
 | ABCguide.ai        | available | 48       | 72%    | 9      |                 |                  |                  |
@@ -50,7 +51,6 @@ If you want to search & filters the complete database of [.AI one word domains](
 | abdominalwall.ai   | available | 54       | 72%    | 14     |                 |                  |                  |
 | abdominous.ai      | available | 56       | 1%     | 10     |                 |                  |                  |
 | abducens.ai        | available | 54       | 1%     | 8      |                 |                  |                  |
-| abducent.ai        | available | 68       | 1%     | 8      |                 |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/ai-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.AI one word domains](
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |

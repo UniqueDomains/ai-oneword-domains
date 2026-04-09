@@ -18,7 +18,7 @@ The CSV and JSON files are the public extract published for that search. The liv
 - Visible prices
 - Catalog counts
 - Decision-support scores
-- Generated preview assets
+- Generated chart assets
 
 ## Caveats
 

@@ -4,7 +4,7 @@
 
 This repository represents the exact public search at `https://unique.domains/domains/tld/ai`.
 
-The CSV and JSON files are the public extract published for that search. The live product can contain more domains, more filters, and more workflow state than the files in this repository.
+The CSV and JSON files are the public extract published for that search. Unique Domains can contain more domains, more filters, and more workflow state than the files in this repository.
 
 ## Source Of Truth
 
@@ -23,7 +23,7 @@ The CSV and JSON files are the public extract published for that search. The liv
 
 - This dataset is decision support, not a guarantee of buyability, value, trademark clearance, or SEO outcome.
 - Missing values are preserved when the upstream search does not expose a field.
-- The public extract is intentionally smaller than the full live product when the live catalog exceeds the exported row count.
+- The public extract is intentionally smaller than the full Unique Domains dataset when the live catalog exceeds the exported row count.
 
 ## Refresh Policy
 

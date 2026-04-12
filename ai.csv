@@ -1,9 +1,10 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
+359d7687-91bc-492f-8855-d0b083e2bd77,dear.ai,resell,,,80,26,4,"NameCheap, Inc.",16/12/2017 01:21,18/12/2031 01:21
+4640d397-a74a-4388-bc9e-4640f03ec87b,identifier.ai,resell,,,78,5,10,"NameCheap, Inc.",25/06/2025 08:40,25/06/2027 08:40
+4a785947-a946-4179-bae4-ff7a8f16e4ea,loud.ai,resell,,,60,27,4,Key-Systems GmbH,15/12/2017 22:28,20/02/2027 22:28
+5701fa1b-2794-48ec-9d28-241e887432ea,briefs.ai,resell,,,74,10,6,"NameCheap, Inc.",17/12/2022 21:14,17/12/2026 21:14
 852b28f8-50dc-4008-91d1-132ccb4dcb4e,unhappy.ai,resell,,,68,6,7,"NameCheap, Inc.",26/02/2024 14:09,26/02/2028 14:09
 8f17653a-604f-4732-ab87-249d98366381,scheduled.ai,resell,,,74,7,9,"NameCheap, Inc.",17/05/2020 15:31,17/05/2026 15:31
-5701fa1b-2794-48ec-9d28-241e887432ea,briefs.ai,resell,,,74,10,6,"NameCheap, Inc.",17/12/2022 21:14,17/12/2026 21:14
-4a785947-a946-4179-bae4-ff7a8f16e4ea,loud.ai,resell,,,60,27,4,Key-Systems GmbH,15/12/2017 22:28,20/02/2027 22:28
-359d7687-91bc-492f-8855-d0b083e2bd77,dear.ai,resell,,,80,26,4,"NameCheap, Inc.",16/12/2017 01:21,18/12/2031 01:21
 ce7c79a5-74eb-4545-8ce7-7ecd115bdea9,despite.ai,resell,,,70,6,7,"NameCheap, Inc.",15/04/2024 01:17,15/04/2028 01:17
 3df287c8-109e-4fc6-9c91-c8f9346e2718,cubicdecimetre.ai,premium,,,54,72,15,,,
 e88c2854-199d-43f6-b95b-0c65d9197383,needbased.ai,premium,,,50,72,10,,,
@@ -943,7 +944,7 @@ edee73e8-7ce8-43d7-91e2-46a4f0a56cbb,stake.ai,resell,,,54,84,5,"NameCheap, Inc."
 64ec423a-5fd7-4d0b-a549-ee0fbbf13376,instages.ai,premium,,,51,72,9,,,
 46585f81-2e56-41f6-96d8-2575e620bba7,thiophene.ai,premium,,,56,72,9,,,
 8d4b0e79-05a1-42bc-9082-e5cf4ec6ff8e,smokepoint.ai,premium,,,61,72,11,,,
-cab49db7-e3d4-4ee8-a02b-57c4a176a321,annoying.ai,resell,,,72,10,8,Dynadot Inc,25/08/2024 20:58,25/08/2026 20:58
+cab49db7-e3d4-4ee8-a02b-57c4a176a321,annoying.ai,resell,,,72,9,8,Dynadot Inc,25/08/2024 20:58,25/08/2026 20:58
 bdbb9e29-7710-4e83-8273-5217f70bb793,shamrock.ai,resell,,,62,80,8,Dynadot Inc,04/01/2022 17:12,04/01/2026 17:12
 6628bf4d-5f64-4b6b-8a0e-766be47ae3a7,screwabout.ai,premium,,,,1,11,,,
 9fa0a82c-f840-48d1-92b8-6cb4959f00a6,solarsail.ai,premium,,,72,76,10,,,
@@ -1046,7 +1047,7 @@ d16be7d3-1a5b-43ca-893f-f5630f627b1e,animalheat.ai,premium,,,54,72,11,,,
 bfafb17d-227b-4a85-8081-f5a5454ef2ab,dragonarum.ai,premium,,,52,72,11,,,
 82507e22-9a26-4f86-869a-dfd07d8ae1d2,SolwayFirth.ai,premium,,,,8,12,,,
 3f2f8573-8339-4bc0-9cf4-18e439641dd5,inwriting.ai,premium,,,48,76,10,,,
-7913da99-b2f9-4fb2-807b-7ad9b14d1f10,heatup.ai,premium,,,76,5,7,,,
+7913da99-b2f9-4fb2-807b-7ad9b14d1f10,heatup.ai,premium,,,76,6,7,,,
 9ce6f8cc-c09c-48c7-aba5-531c027b509b,unfailing.ai,premium,,,62,76,9,,,
 b3062992-9b98-4a18-8655-95d675e80dd4,masterlyinactivity.ai,premium,,,58,8,19,,,
 b0eadd24-405d-4c80-b53b-236a90329aae,aneuploid.ai,premium,,,59,1,9,,,
@@ -1447,7 +1448,7 @@ dfdd3cb1-05b8-4bf9-837c-5dade4859a5c,perishable.ai,premium,,,75,72,10,,,
 1366746b-525b-4fc6-9f0d-9aebf05905f7,bunkdown.ai,premium,,,56,72,9,,,
 a4508f90-8810-441a-bf18-2b60939a2266,unbackablefavourite.ai,premium,,,60,72,20,,,
 e4f6d9c1-3054-42dc-9188-779ac44d072d,scoopout.ai,premium,,,,72,9,,,
-cfc6566c-6aff-4cb6-a074-232ff1fd057a,ike.ai,resell,,,88,24,3,"GoDaddy.com, LLC",07/12/2021 16:19,07/12/2027 16:19
+cfc6566c-6aff-4cb6-a074-232ff1fd057a,ike.ai,resell,,,88,21,3,"GoDaddy.com, LLC",07/12/2021 16:19,07/12/2027 16:19
 59d5c612-681b-4944-b1c4-fa5fbd550778,mothafukka.ai,premium,,,62,1,10,,,
 48c7358e-33c5-4788-b6c5-c5f00ea807f3,sandboxgame.ai,premium,,,60,72,12,,,
 909fccd7-4f27-463d-a3fb-e85f3f5e2622,Papanicolaousmear.ai,premium,,,54,72,18,,,
@@ -1538,7 +1539,7 @@ d84328ba-a778-4087-a854-46de4f815909,brofist.ai,premium,,,68,76,7,,,
 59407ddd-7077-4605-833a-aa9752c4c221,waitingmove.ai,premium,,,,4,12,,,
 d686e5a4-8710-4479-b2a0-21e747decc81,joybell.ai,premium,,,64,72,8,,,
 237db56d-b43d-4945-bd4f-4ce8c4f5eedb,publically.ai,premium,,,56,76,10,,,
-9dff65ff-fc9e-44b3-8d4d-5df4880f2735,four.ai,resell,,,66,30,4,Dynadot Inc,16/12/2017 01:46,29/12/2026 01:46
+9dff65ff-fc9e-44b3-8d4d-5df4880f2735,four.ai,resell,,,66,29,4,Dynadot Inc,16/12/2017 01:46,29/12/2026 01:46
 5588ff73-4381-4f15-8b59-8f53f5739f66,bellheather.ai,premium,,,58,72,12,,,
 2b702ae1-a4d0-4e39-a142-52f06035df33,luckystreak.ai,premium,,,76,4,12,,,
 1582b611-36e3-4a00-a228-06e8d6358834,hardstanding.ai,premium,,,40,72,13,,,
@@ -2125,7 +2126,7 @@ bf1d3a08-bcc1-42a1-9592-4fcc23415d0a,GreatBookham.ai,premium,,,52,72,13,,,
 4ae69fee-aae9-42b1-b970-e4f7eb48d07c,bathful.ai,premium,,,56,72,7,,,
 5bed8fce-45fe-4f78-8a3b-dcf6271f47d4,jimmies.ai,premium,,,66,72,7,,,
 d6bc0e9e-69bc-456d-9cd9-0276a880b80b,Utahs.ai,resell,,,,4,5,"GoDaddy.com, LLC",14/11/2024 17:22,14/11/2026 17:22
-08145421-4c94-499a-a4a0-c1333a14b7b8,newyork.ai,resell,,,,42,8,Deep Vision Architects,20/07/2018 16:24,20/07/2026 16:24
+08145421-4c94-499a-a4a0-c1333a14b7b8,newyork.ai,resell,,,,40,8,Deep Vision Architects,20/07/2018 16:24,20/07/2026 16:24
 85e96cb7-41ef-4360-b3ae-af10e88bb034,freeranging.ai,premium,,,50,12,12,,,
 62240bef-0fc5-434c-bfec-75949e6151bf,acrophobic.ai,premium,,,64,1,10,,,
 3f52014a-5c9d-49e1-b2a2-cf070b29948b,constitutions.ai,resell,,,34,20,13,DNS11 GROUP,12/10/2023 02:32,12/10/2025 02:32
@@ -2198,7 +2199,7 @@ eaabe263-9bbc-4fb9-b9ed-14e36a97e36f,ElmstoneHardwicke.ai,premium,,,44,72,18,,,
 3fdb288e-97df-418b-8ad6-b9c380d8580b,littlegreenmen.ai,premium,,,36,20,16,,,
 ff80fd48-4ea8-4a29-b68f-1bbf70136f6e,tapetree.ai,premium,,,56,72,9,,,
 55be7477-034b-4095-9f4f-8f301facd5b0,interestcover.ai,premium,,,40,72,14,,,
-9d4d6254-28c1-43f3-8be7-af74aa5afa85,fine.ai,resell,,,80,30,4,"Spaceship, Inc.",16/12/2017 02:55,06/09/2028 02:55
+9d4d6254-28c1-43f3-8be7-af74aa5afa85,fine.ai,resell,,,80,29,4,"Spaceship, Inc.",16/12/2017 02:55,06/09/2028 02:55
 fa337124-200e-40d0-b55b-add636ce6d10,silverbuckle.ai,premium,,,,72,13,,,
 0f311376-9585-4f65-be83-c68314e1de04,leafcutting.ai,premium,,,50,72,12,,,
 ba3a1112-0699-41e8-9007-15734ace7951,steamfog.ai,premium,,,,72,9,,,
@@ -2593,7 +2594,7 @@ db7f6ccb-22ee-4b7e-9477-48fe717fa6b1,hittheballtwice.ai,premium,,,42,72,18,,,
 833514c7-98e4-46ea-b5b9-4a3c6b01e5d4,handlotion.ai,premium,,,64,76,11,,,
 6b620853-e9ae-4200-95c0-577aa62d9d63,superanalog.ai,premium,,,,72,11,,,
 a2dee5fc-8eb3-414f-b3a9-06761a45b3d9,teddyboy.ai,premium,,,54,80,9,,,
-8f139f6d-adb3-4236-b9e1-46091413bbbd,sweat.ai,resell,,,58,19,5,"NameCheap, Inc.",17/02/2019 21:45,17/02/2027 21:45
+8f139f6d-adb3-4236-b9e1-46091413bbbd,sweat.ai,resell,,,58,17,5,"NameCheap, Inc.",17/02/2019 21:45,17/02/2027 21:45
 00681ba8-6245-4e28-a865-7fd5b0ec3ab3,centeron.ai,premium,,,70,76,9,,,
 ccd80a5e-b3c6-46ff-ae0d-9001c3199695,Alysha.ai,premium,,,56,76,6,,,
 bd8a2a27-2a68-484f-923f-92fb3e176166,coiling.ai,premium,,,56,72,7,,,
@@ -4477,7 +4478,7 @@ e28e1b57-75cd-4cbf-a83b-e365da05b293,quasiacademic.ai,premium,,,,72,14,,,
 8db728f6-ab29-4bfb-b45b-1363ce1b14cc,highwayman.ai,premium,,,54,76,10,,,
 04ad8a77-d183-42dc-8826-47d047493e61,rehearsing.ai,premium,,,58,72,10,,,
 ac291b62-19e8-4a93-a62b-e1fa88af776b,pepperpot.ai,premium,,,62,80,10,,,
-f2ec0d55-3c9a-43b8-bc13-188c1a08601e,maintain.ai,resell,,,70,16,8,Deep Vision Architects,16/12/2017 00:38,16/02/2027 00:38
+f2ec0d55-3c9a-43b8-bc13-188c1a08601e,maintain.ai,resell,,,70,14,8,Deep Vision Architects,16/12/2017 00:38,16/02/2027 00:38
 43797ce0-d5be-4718-bbfa-58961f712bdf,unitprice.ai,premium,,,56,76,10,,,
 2ef6f82c-b82a-4cc5-87e8-7495e0317c76,roastdinner.ai,premium,,,66,72,12,,,
 8ac3e6dc-7d4f-42c3-b3ec-594c6c7e2eee,leaseholding.ai,premium,,,66,8,12,,,
@@ -4565,7 +4566,7 @@ e1db7892-c08a-490d-a8ba-7b27abae3e9d,kerbweight.ai,premium,,,56,72,11,,,
 0d3d7caa-519a-4f31-85c6-f300ec6ac938,capitalistic.ai,premium,,,50,72,12,,,
 13812d37-7187-4e2c-8d2d-572ad193fee6,crimson.ai,resell,,,110,24,7,Deep Vision Architects,16/12/2017 04:40,18/05/2027 04:40
 67d12b22-5c99-4d37-97eb-cd45863d283f,Gspot.ai,resell,,,82,84,6,"NameSilo, LLC",04/12/2023 17:51,04/12/2025 17:51
-816b56a0-2a52-4ac3-873c-646e032c768c,apt.ai,resell,,,70,32,3,"GoDaddy.com, LLC",08/02/2022 16:14,08/02/2028 16:14
+816b56a0-2a52-4ac3-873c-646e032c768c,apt.ai,resell,,,70,31,3,"GoDaddy.com, LLC",08/02/2022 16:14,08/02/2028 16:14
 36cd3551-ed39-411e-b4e9-34fbb3cc664f,thirdpartyclaim.ai,premium,,,56,72,17,,,
 22097a9c-5ff5-4543-85b3-f24f5f283432,roundbone.ai,premium,,,52,72,10,,,
 32695fd5-eb46-4a1f-88a0-c0354590fe86,operatingtheatre.ai,premium,,,58,72,17,,,
@@ -4593,7 +4594,7 @@ ebf0328a-b7bf-4baa-a0fb-83943a189dc2,adhesion.ai,resell,,,64,84,8,"NameCheap, In
 542f1b2a-bf31-48ce-9df9-8e4365ac2403,pollinizer.ai,premium,,,62,72,10,,,
 cb4787c8-2d23-41ea-9d78-740170363acf,seventysecond.ai,premium,,,56,72,14,,,
 13721fcd-cc96-4b6d-857f-77292680f9f0,underarrest.ai,premium,,,58,2,12,,,
-acb76afb-a419-4ca8-8d10-30a476567036,unity.ai,resell,,,70,41,5,Dynadot Inc,15/12/2017 22:30,27/01/2027 22:30
+acb76afb-a419-4ca8-8d10-30a476567036,unity.ai,resell,,,70,40,5,Dynadot Inc,15/12/2017 22:30,27/01/2027 22:30
 2b2fcddb-3949-4fbd-aa32-0effcc63d4fa,Coones.ai,premium,,,50,76,6,,,
 74b06ae5-33ac-4f57-8821-de3026f060c0,StannCreek.ai,premium,,,48,72,11,,,
 92e8d9b1-5d00-4476-8d2c-ea4f48fd89d0,aheadofschedule.ai,available,92.98,,60,16,17,namecheap,,
@@ -4731,7 +4732,7 @@ f9d95483-f91d-4d9c-8c79-71aeabf9e42b,BenjaminFranklin.ai,premium,,,74,80,17,,,
 44f4afd0-fb8f-46de-b428-56fc0ece5d1a,napped.ai,premium,,,54,72,6,,,
 57b02a90-6d04-44da-b53a-4fc9080e4abe,jolly.ai,resell,,,68,27,5,Porkbun LLC,03/02/2018 22:17,03/02/2027 22:17
 8cddbeca-3822-4038-a5f6-57192324e23b,chimneyflute.ai,premium,,,40,72,13,,,
-5684e019-856d-4f95-a842-d220fc5f5589,hands.ai,resell,,,60,20,5,Dynadot Inc,16/12/2017 01:39,20/06/2026 01:39
+5684e019-856d-4f95-a842-d220fc5f5589,hands.ai,resell,,,60,21,5,Dynadot Inc,16/12/2017 01:39,20/06/2026 01:39
 f5421b2e-d89f-43cb-98bf-9a64440faa32,standwith.ai,available,92.98,,,72,10,namecheap,,
 259fd0e6-3307-4913-ba86-96a0489e6c8d,gossipy.ai,premium,,,56,72,7,,,
 66d213d6-5fac-4554-9e9b-2e45d0e68c8b,communityspread.ai,premium,,,58,72,16,,,
@@ -5987,7 +5988,7 @@ d11d0722-b530-497d-895f-a9e1a3d46265,parishhouse.ai,premium,,,56,72,12,,,
 2386cdf3-1f13-4935-971b-0881e1106b6a,bazaar.ai,resell,,,64,88,6,Deep Vision Architects,15/06/2018 17:07,15/06/2026 17:07
 9fb020a7-aede-4d52-a4ef-e854aa48bc49,auctiontheory.ai,premium,,,54,8,14,,,
 6e23de7b-b0c0-482b-bfdb-022060a888be,spermatocyte.ai,premium,,,56,72,12,,,
-772a4f7f-018f-4684-835e-8abc9af1ad33,xvi.ai,resell,,,66,8,3,"NameCheap, Inc.",21/09/2025 02:50,21/09/2027 02:50
+772a4f7f-018f-4684-835e-8abc9af1ad33,xvi.ai,resell,,,66,7,3,"NameCheap, Inc.",21/09/2025 02:50,21/09/2027 02:50
 09b5e67d-eea9-4bcb-ad8c-fd9db2ea1abe,LGBTQ.ai,resell,,,86,20,5,"NameCheap, Inc.",26/10/2021 08:05,25/01/2028 04:00
 8d1bc4c8-ef79-42aa-a245-17a96d9a33e0,bodywraps.ai,available,92.98,,36,12,10,namecheap,,
 5b50ef11-1ecc-4931-87f2-8dc8efc40f56,primalscream.ai,premium,,,54,76,13,,,
@@ -6076,7 +6077,7 @@ ccbbe3e5-e5d2-497c-bcf4-cf9ff9ec0515,splashparty.ai,premium,,,64,76,12,,,
 af2061c7-a082-4de3-8b86-e7c02b0d6779,letterofcredit.ai,premium,,,76,2,16,,,
 ff233aa2-15c4-4af9-9603-57b5cd4a9c82,comerunning.ai,premium,,,70,72,12,,,
 46b91c25-8bb6-4160-b529-43b53a4fa3c7,showwoman.ai,premium,,,,72,9,,,
-2a280ea6-d564-4b8a-b38c-ca072fe171a0,fiction.ai,resell,,,78,24,7,"Spaceship, Inc.",15/12/2017 23:27,24/10/2026 23:27
+2a280ea6-d564-4b8a-b38c-ca072fe171a0,fiction.ai,resell,,,78,22,7,"Spaceship, Inc.",15/12/2017 23:27,24/10/2026 23:27
 edb172a8-5aca-4164-9fa6-d7b8f1787b55,pastorates.ai,premium,,,,4,10,,,
 57e4ea30-6a65-48c8-9dbe-22929d0283e4,inasnap.ai,premium,,,44,28,9,,,
 d29329f2-c738-4bfb-a262-580a8f9d5a45,smock.ai,resell,,,54,80,5,"NameCheap, Inc.",12/05/2024 23:35,12/05/2026 23:35
@@ -6836,7 +6837,7 @@ d38c28f6-a23e-4960-8866-c370b1934f49,snorkels.ai,premium,,,,24,8,,,
 12aaec29-5cc7-44a7-8ee8-1a05876db8c3,patrolbox.ai,premium,,,,12,10,,,
 60b8f57a-1428-49f3-90cf-f2174ac14213,dishonour.ai,premium,,,82,2,9,,,
 423da9ca-772f-4b5a-b0f5-ea8611723b49,zebracrossing.ai,premium,,,58,72,14,,,
-62ca84c4-dfc7-4ead-b228-35dd3a7f4e0d,forgiving.ai,resell,,,96,6,9,"NameCheap, Inc.",27/07/2022 23:13,27/07/2026 23:13
+62ca84c4-dfc7-4ead-b228-35dd3a7f4e0d,forgiving.ai,resell,,,96,5,9,"NameCheap, Inc.",27/07/2022 23:13,27/07/2026 23:13
 5149187b-415f-4c27-9aab-c5c4651baf85,clementine.ai,resell,,,76,88,10,"NameCheap, Inc.",03/03/2025 14:49,03/03/2027 14:49
 04bca203-c91c-4f47-b3fe-cc79e46668f4,Alanis.ai,resell,,,54,76,6,"GoDaddy.com, LLC",07/03/2021 08:27,07/03/2027 08:27
 e08d8923-9c8c-4208-bd5b-d3e7cf55ffd8,offBroadway.ai,premium,,,74,76,12,,,
@@ -7831,7 +7832,7 @@ f95228cb-d08a-4cb9-af98-800ef47d08b8,windgenerator.ai,premium,,,58,68,14,,,
 5977fe70-dbb2-43ec-9ea5-a2aa8122607d,faroff.ai,premium,,,66,72,7,,,
 f32692ab-1754-4168-80ef-e9eab2c70f5e,animallike.ai,premium,,,49,72,11,,,
 93d57ddd-97e2-45a1-b5d2-b2fd02104948,rave.ai,resell,,,58,84,4,Deep Vision Architects,15/12/2017 22:25,29/10/2025 22:25
-a234cfdd-b97d-4360-99c4-43bc1c93d65c,all.ai,resell,,,88,49,3,Zenaida.cate.ai,16/12/2017 03:25,20/12/2027 03:25
+a234cfdd-b97d-4360-99c4-43bc1c93d65c,all.ai,resell,,,88,48,3,Zenaida.cate.ai,16/12/2017 03:25,20/12/2027 03:25
 f14ffce9-81e3-49d4-8ac6-3dfdf4ed75cf,torchmaking.ai,premium,,,,4,11,,,
 413ce89f-d179-433e-8f7a-c8409b4440d3,picnicbox.ai,premium,,,,12,10,,,
 fd1b1dca-b5f0-4136-b6ee-713ef37d6871,wakeboarding.ai,premium,,,,76,12,,,
@@ -8043,6 +8044,7 @@ e3333050-131e-4f1b-92e0-367e7183872e,molecularbiologist.ai,premium,,,58,72,19,,,
 1aa39a58-e8fa-48a8-8f32-df4675763ec2,NewGottland.ai,premium,,,,72,12,,,
 f60aaf54-b68f-4567-b3a0-e3c6764ee646,outshone.ai,premium,,,,8,8,,,
 5b784399-7ec5-4754-b040-ce570525ed57,fivebar.ai,premium,,,40,68,8,,,
+0c73c934-b174-48e0-bf2c-65e2b0248cb6,hattrick.ai,resell,,,76,10,9,"GoDaddy.com, LLC",26/03/2022 01:50,26/03/2028 01:50
 2a1a1953-7c22-4131-ba70-9f16b34276e7,roofplate.ai,premium,,,56,72,10,,,
 008d4e6a-ea7e-4192-98a2-84218874b0c8,largeandincharge.ai,premium,,,66,4,19,,,
 0d7971d1-63ea-4728-aba8-0bdba6b6aacc,pates.ai,premium,,,,36,5,,,
@@ -9997,5 +9999,3 @@ b80729bb-d336-43c2-a495-0cbc02964db6,senseofcraft.ai,premium,,,,72,14,,,
 5fe331a7-493f-408c-aa03-cae5954fc9bf,greentop.ai,premium,,,56,76,9,,,
 1417b09b-c362-46d7-b05c-362a0fecfbee,tenordrums.ai,premium,,,,4,11,,,
 81227d08-4276-4e15-99ea-bb3cfd1ca900,mustached.ai,premium,,,50,72,9,,,
-9ab3e6e3-cf48-4c6e-af41-3fa7dd976ccb,telephonedirectory.ai,premium,,,62,76,19,,,
-2f5b5602-44df-4a37-b4b8-aa3a745af064,topscorer.ai,premium,,,62,68,9,,,

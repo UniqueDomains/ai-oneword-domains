@@ -158,6 +158,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 65a97906-01f8-4502-8b50-4546617f2f93,prowlers.ai,available,99.99,99.99,40,2,8,namesilo,,
 660b1cde-4037-4419-b262-f5c8c7ed4986,weekends.ai,resell,,,64,8,8,"NameCheap, Inc.",19/06/2025 11:07,19/06/2027 11:07
 6621d989-ef34-408a-baf8-0d274c891422,runs.ai,resell,,,68,12,4,"NameCheap, Inc.",30/06/2019 02:19,30/06/2027 02:19
+6629e591-04e3-430e-a70a-df5c643cb50a,visiting.ai,resell,,,72,7,8,"NameCheap, Inc.",02/06/2025 00:21,02/06/2027 00:21
 66880813-b624-410c-bc1a-53ece319d0bb,paintthinner.ai,available,114.98,,56,1,13,namecheap,,
 671426c4-76b7-48e0-a598-16cb2390e108,sticks.ai,resell,,,60,11,6,"NameCheap, Inc.",14/08/2018 12:35,14/08/2026 12:35
 67dd90a3-bcb5-45d0-b65c-f5d79d944fef,preliminarily.ai,available,114.98,,41,1,13,namecheap,,
@@ -433,7 +434,7 @@ e0400a2f-68ab-4e10-b4ad-849841adb0a1,airspeed.ai,resell,,,56,84,8,"GoDaddy.com, 
 c6191514-4814-41f9-82fd-cb469d18f372,rudderless.ai,premium,,,50,2,10,,,
 26b67556-cd67-4a99-bbd9-0becb4d98689,flop.ai,resell,,,60,13,4,Zenaida AXA,06/01/2018 04:00,05/01/2028 04:00
 252e726c-5767-4c38-9776-d9296e2da14d,NoSQL.ai,resell,,,60,84,5,Dynadot Inc,31/05/2025 00:35,31/05/2027 00:35
-9bae0d25-a02b-4c4a-bf4b-c4a6719fa35f,amuse.ai,resell,,,82,12,5,Dynadot Inc,08/11/2022 16:02,08/11/2028 16:02
+9bae0d25-a02b-4c4a-bf4b-c4a6719fa35f,amuse.ai,resell,,,82,13,5,Dynadot Inc,08/11/2022 16:02,08/11/2028 16:02
 369428d4-943a-4860-9ec1-10516d9de5af,distancingeffect.ai,premium,,,56,72,17,,,
 2f6002df-12f3-472f-8208-1f0098539b53,unbuckling.ai,premium,,,52,72,10,,,
 19548a6a-87a9-4998-8576-dfc6db88eaf7,Stainton.ai,premium,,,48,80,8,,,
@@ -998,4 +999,3 @@ d4ad9f85-dfe1-4b14-ba5a-27a528b50f97,Knicks.ai,premium,,,62,72,6,,,
 63d3b8d4-7d77-4934-92bd-eb16d5baeb27,likeably.ai,premium,,,52,72,8,,,
 517a067c-3a7c-46f4-b692-c9c5b7a495b8,Coulombcollision.ai,premium,,,50,72,17,,,
 e15bf140-72a2-4fba-a417-23d118dcd910,foreignaid.ai,premium,,,52,76,11,,,
-35be833e-b89a-4c59-8483-98ebef0cd2a2,reactionturbine.ai,premium,,,54,72,16,,,

@@ -64,7 +64,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 30326ed1-97b3-4f71-9b78-202536675d34,solarpower.ai,resell,,,84,15,11,Hale Com,26/01/2018 22:46,26/01/2028 22:46
 30a5c545-7e68-491f-911c-5062cf52d636,havethefoggiest.ai,available,99.99,99.99,54,1,17,namesilo,,
 30c9565b-7e64-4968-a240-f31d3a101d69,highprofile.ai,resell,,,70,4,12,"GoDaddy.com, LLC",13/02/2024 16:32,13/02/2028 16:32
-30e89b35-2bcd-4a5d-b4ac-eeff224832f7,that.ai,resell,,,78,41,4,101domain GRS Limited,15/12/2017 22:22,17/03/2028 22:22
+30e89b35-2bcd-4a5d-b4ac-eeff224832f7,that.ai,resell,,,78,38,4,101domain GRS Limited,15/12/2017 22:22,17/03/2028 22:22
 30fbdd35-8860-41a1-ae27-1cbbe5dc91cb,mouthed.ai,available,114.98,,63,1,7,namecheap,,
 31224d4a-2e75-49c5-bb3e-db980454cec1,recessions.ai,available,99.99,99.99,46,2,10,namesilo,,
 31295c66-748e-4d85-8c05-4836bae51a21,thedamn.ai,available,114.98,,38,1,8,namecheap,,
@@ -144,10 +144,11 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 605bd8ea-5600-4b12-bbd4-82b1332af145,blewagasket.ai,available,99.99,99.99,34,1,13,namesilo,,
 6114a5d8-a9aa-49f4-b9bf-1d5c739df62e,practicality.ai,available,114.98,,72,3,12,namecheap,,
 611857c1-e1be-4c4a-ad12-ea4a77a8d806,dustbunnies.ai,available,99.99,99.99,38,5,12,namesilo,,
-61be76c6-3802-4f26-afe8-d4ad6d230eb5,bought.ai,resell,,,78,7,6,"NameCheap, Inc.",06/12/2020 07:37,06/12/2026 07:37
+61be76c6-3802-4f26-afe8-d4ad6d230eb5,bought.ai,resell,,,78,6,6,"NameCheap, Inc.",06/12/2020 07:37,06/12/2026 07:37
 61d1a892-5b4b-4c55-ac7e-59f9e977658f,Places.ai,resell,,,74,22,6,Dynadot Inc,16/12/2017 03:44,23/01/2031 16:00
 6296ac33-e1bd-43e4-a65a-656154cceb40,wraps.ai,resell,,,53,11,5,Porkbun LLC,23/11/2020 17:15,23/11/2027 17:15
 62aa0faf-c09d-4ec2-bb75-5eea7714ae8a,makeit.ai,resell,,,82,22,7,"NameCheap, Inc.",08/04/2026 04:53,08/04/2028 04:53
+636eadb1-4678-4e7c-9e52-15e856e428f8,thinkup.ai,resell,,,80,8,8,"NameCheap, Inc.",19/05/2023 07:49,19/05/2027 07:49
 639cc6a0-e2ac-48a3-9689-fc29fdb2ec3d,disobeying.ai,available,99.99,99.99,46,1,10,namesilo,,
 649d69fe-873d-4ed8-a96f-0af2337a9933,infrared.ai,resell,,,66,25,9,"Spaceship, Inc.",22/03/2018 14:56,22/03/2028 14:56
 654c5201-4d3a-4e65-a0ef-77ad42748433,punched.ai,resell,,,50,3,7,"GoDaddy.com, LLC",07/05/2025 12:28,07/05/2027 12:28
@@ -374,7 +375,7 @@ f729a666-30ae-4a68-8675-9477125db36d,behindschedule.ai,available,114.98,,38,1,15
 f79f3b69-93b4-4f75-98de-9dfd9ce870de,starts.ai,resell,,,54,9,6,"NameCheap, Inc.",25/05/2022 15:11,25/05/2026 15:11
 f8f9ec65-41b5-4f6e-8b4b-f9b15b30f33c,surveys.ai,resell,,,56,15,7,EuroDNS S.A.,16/12/2017 05:31,17/03/2027 05:31
 f92a0f4e-09bb-4e0b-bc68-013bad3ec659,getsick.ai,available,114.98,,72,1,8,namecheap,,
-fb69bcdc-2d84-405a-a267-d125a2f01396,this.ai,resell,,,80,46,4,101domain GRS Limited,16/12/2017 00:30,14/03/2028 00:30
+fb69bcdc-2d84-405a-a267-d125a2f01396,this.ai,resell,,,80,43,4,101domain GRS Limited,16/12/2017 00:30,14/03/2028 00:30
 fbef36e5-3959-48a5-8a29-785f40038175,equals.ai,resell,,,62,10,6,"NameCheap, Inc.",24/03/2019 23:30,24/03/2027 23:30
 fbf94c83-ea81-4599-943e-20a38dd09dc6,involvement.ai,resell,,,74,6,11,"NameCheap, Inc.",15/04/2024 01:17,15/04/2028 01:17
 fc4c33e9-0761-4162-bf6f-d7e13705038a,rumorhasit.ai,available,114.98,,47,2,12,namecheap,,
@@ -998,4 +999,3 @@ d4ad9f85-dfe1-4b14-ba5a-27a528b50f97,Knicks.ai,premium,,,62,72,6,,,
 58124168-4712-45f2-86c4-4572be9d7bf6,Coulombrepulsion.ai,premium,,,50,72,17,,,
 63d3b8d4-7d77-4934-92bd-eb16d5baeb27,likeably.ai,premium,,,52,72,8,,,
 517a067c-3a7c-46f4-b692-c9c5b7a495b8,Coulombcollision.ai,premium,,,50,72,17,,,
-e15bf140-72a2-4fba-a417-23d118dcd910,foreignaid.ai,premium,,,52,76,11,,,

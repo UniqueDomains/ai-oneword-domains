@@ -38,6 +38,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1c05b5ed-a4a7-40f0-b037-b0292bd9e264,disappoints.ai,available,99.99,99.99,36,1,11,namesilo,,
 1c5cc712-e5c6-4860-8e58-15539b08243a,gofigure.ai,resell,,,54,7,9,"NameCheap, Inc.",10/03/2022 02:54,10/03/2028 02:54
 1e12babf-c808-4d7d-bbe2-295ada7b04a9,underprotest.ai,available,114.98,,30,1,13,namecheap,,
+1fe9348c-8d13-4b43-af73-8f92cc083b65,facilitating.ai,resell,,,59,3,12,Brands.io,02/05/2026 15:15,02/05/2028 15:15
 1ff08590-4edf-4f26-9f83-dbfa294ea1f7,gonowhere.ai,available,114.98,,62,2,10,namecheap,,
 201dec06-4bdf-4403-b7ca-4824cec2a86c,notsomuch.ai,available,114.98,,46,1,11,namecheap,,
 205bf287-4887-404f-be03-df7b32593426,outofoffice.ai,resell,,,61,19,13,"NameCheap, Inc.",12/04/2026 00:09,12/04/2028 00:09
@@ -211,7 +212,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 81e6ed53-af95-4837-8608-077a67d36bd0,clicking.ai,resell,,,70,8,8,"NameCheap, Inc.",13/06/2025 20:46,13/06/2027 20:46
 83cb6227-3620-47ab-8026-5ca79f3f6272,filed.ai,resell,,,48,7,5,"NameCheap, Inc.",30/06/2020 06:01,30/06/2026 06:01
 83dd3d5f-6cf8-438e-be37-a2c69a434fe7,waitup.ai,available,114.98,,63,2,7,namecheap,,
-83f1042b-6d11-429b-951c-a403945e898f,nowandthen.ai,resell,,,64,4,12,"NameCheap, Inc.",22/02/2026 16:14,22/02/2028 16:14
+83f1042b-6d11-429b-951c-a403945e898f,nowandthen.ai,resell,,,64,5,12,"NameCheap, Inc.",22/02/2026 16:14,22/02/2028 16:14
 843c3128-b237-4113-bd8b-0c88f1e5ecaf,noses.ai,resell,,,48,3,5,"NameCheap, Inc.",07/10/2024 22:54,07/10/2026 22:54
 843d3945-432e-4f1f-b227-e64849e19d6b,happiest.ai,resell,,,64,10,8,Porkbun LLC,21/06/2019 14:56,21/06/2027 14:56
 84c84b09-6b1f-4efb-a345-aac371f2e977,organise.ai,resell,,,80,10,8,Porkbun LLC,08/02/2021 23:39,08/02/2027 23:39
@@ -457,7 +458,7 @@ e67c8779-d6cd-4472-8fd6-a56428d8e0f9,dispatchmoney.ai,premium,,,54,4,14,,,
 f5bba3e1-0ceb-4575-a1ae-c1cc357952fc,stepladders.ai,premium,,,,16,11,,,
 ee8ee2dc-5cc6-4c6f-a467-ef6df59d8263,chambermusic.ai,premium,,,56,84,13,,,
 352858cb-a1e2-4b72-ad6f-d1f20ff1e1b5,molecularweight.ai,premium,,,54,72,16,,,
-f67c6f8a-8029-4705-81ce-fe7ca279bb6c,intwoshakes.ai,premium,,,46,0,13,,,
+f67c6f8a-8029-4705-81ce-fe7ca279bb6c,intwoshakes.ai,premium,,,46,1,13,,,
 7dc8423c-60f3-448e-a41f-d48b31ff4695,holdamirrorupto.ai,premium,,,62,72,19,,,
 ef48e375-dba5-4933-90c8-148eb157acd1,antiinfection.ai,premium,,,50,8,14,,,
 4b260645-8c8e-4a25-a87c-bbb668bcfc3d,distinctive.ai,resell,,,76,80,11,"NameCheap, Inc.",13/12/2021 04:54,13/12/2025 04:54
@@ -571,7 +572,7 @@ d6e8394d-9e1d-4aeb-bd33-a3597951146a,pickflowers.ai,premium,,,,12,12,,,
 73943162-80bc-4d07-ba95-8d1ad97cab40,fitlikeaglove.ai,premium,,,80,1,16,,,
 a5939cc0-01fb-4ff1-85d7-765c4df200a5,uninterested.ai,premium,,,56,80,12,,,
 59436f30-e213-4a98-ac92-086df6986014,aromatise.ai,premium,,,62,72,9,,,
-ce4e3b53-c046-48c5-b102-1cd7f8588bb0,celiacdisease.ai,premium,,,56,1,14,,,
+ce4e3b53-c046-48c5-b102-1cd7f8588bb0,celiacdisease.ai,premium,,,56,2,14,,,
 85f33375-c979-434a-902c-f5972fbd7e6b,institutions.ai,resell,,,38,20,12,"NameCheap, Inc.",21/01/2024 14:15,21/01/2026 14:15
 9adf95de-b357-4494-b1bb-fef26257856a,undesirable.ai,premium,,,76,2,11,,,
 bbd81ab7-c9fd-4f0b-a4bb-db2a5ceb8bec,Maglite.ai,premium,,,62,68,7,,,
@@ -998,4 +999,3 @@ d4ad9f85-dfe1-4b14-ba5a-27a528b50f97,Knicks.ai,premium,,,62,72,6,,,
 59a80c7e-8062-4bbc-a860-2addf9d76d8f,votingsystem.ai,premium,,,54,72,13,,,
 9bdb630b-b39d-4c75-be08-c969d4cfc9bd,laconicism.ai,premium,,,52,72,10,,,
 58124168-4712-45f2-86c4-4572be9d7bf6,Coulombrepulsion.ai,premium,,,50,72,17,,,
-63d3b8d4-7d77-4934-92bd-eb16d5baeb27,likeably.ai,premium,,,52,72,8,,,

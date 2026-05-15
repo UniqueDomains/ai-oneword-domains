@@ -2,12 +2,13 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 01a2070d-bf93-4fab-9c4d-c43b7eab9c3b,attract.ai,resell,,,78,12,7,101domain GRS Limited,16/12/2017 02:30,17/07/2026 02:30
 02317d7f-d4f3-433d-9b1d-01c4ef60bd95,fractions.ai,resell,,,52,7,9,Netherlands Domains,08/08/2023 16:54,08/08/2027 16:54
 03728d69-52f0-471e-b96e-756bfc01080a,finalreckoning.ai,available,114.98,,58,2,15,namecheap,,
-03ed844b-9ad1-4c00-8de3-e45870b9659f,advertising.ai,resell,,,80,28,11,101domain GRS Limited,16/12/2017 04:23,02/05/2027 04:23
+03ed844b-9ad1-4c00-8de3-e45870b9659f,advertising.ai,resell,,,80,24,11,101domain GRS Limited,16/12/2017 04:23,02/05/2027 04:23
 046ae184-9ac6-4880-855f-dc8d7a9f1a59,aldehydes.ai,available,99.99,99.99,36,1,9,namesilo,,
 04ccc92d-aec1-4d71-b5f4-84bcae4701d0,UnitedStates.ai,resell,,,66,96,13,Porkbun LLC,15/12/2017 22:39,12/03/2029 22:39
 063496e1-a68c-4e9e-8953-354077de188e,OxyContin.ai,available,99.99,99.99,64,6,9,namesilo,,
 065838e9-97ab-40e2-95a6-51770e51948e,possibilities.ai,resell,,,52,7,13,"NameCheap, Inc.",01/10/2022 15:25,01/10/2026 15:25
 0843c487-277b-45e0-9804-a738d0d8a86d,openings.ai,resell,,,62,9,8,"NameCheap, Inc.",08/08/2018 22:43,08/08/2026 22:43
+0b02905c-1a76-4e34-9542-20598f3c4c79,gettoknow.ai,premium,,,79,4,11,,,
 0b1b37a7-c896-43f8-b5eb-4e982cf6fe2f,makeupartist.ai,resell,,,76,5,13,"Spaceship, Inc.",15/09/2025 00:53,15/09/2027 00:53
 0cadd1bf-3216-4df3-883e-d98a849cc2c1,Pamela.ai,resell,,,78,10,6,"NameCheap, Inc.",07/09/2019 12:46,07/09/2027 12:46
 0dd9a8ae-b958-4c60-953a-ffe11b251338,uptoanything.ai,available,114.98,,52,1,14,namecheap,,
@@ -126,6 +127,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 510219cb-4364-4581-b07d-79ed2f76cb4f,goingbad.ai,available,99.99,99.99,46,1,9,namesilo,,
 51fbfff4-49e5-46f3-80e0-46e2e1d8829f,stalled.ai,available,114.98,,48,3,7,namecheap,,
 5281f99a-5e92-40d0-8a80-0b6ab248be3f,tirades.ai,available,114.98,,46,1,7,namecheap,,
+5456ba4b-7949-4fec-9ef6-f310422ad14a,holes.ai,resell,,,66,6,5,Dynadot Inc,21/01/2024 10:03,21/01/2028 10:03
 54b3e673-bef4-4112-a5bb-3d4e5b9f85d8,believed.ai,resell,,,64,3,8,"NameCheap, Inc.",09/03/2025 19:20,09/03/2027 19:20
 54c2b8ee-27d5-426c-8fd5-1dbcd2d1b1ac,learns.ai,resell,,,60,8,6,"NameCheap, Inc.",12/05/2019 16:56,12/05/2027 16:56
 55e0f885-b4b4-4b2c-b1ab-d696b3db1da2,substitution.ai,resell,,,73,4,12,"NameCheap, Inc.",20/11/2025 01:53,20/11/2027 01:53
@@ -152,7 +154,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 62aa0faf-c09d-4ec2-bb75-5eea7714ae8a,makeit.ai,resell,,,82,22,7,"NameCheap, Inc.",08/04/2026 04:53,08/04/2028 04:53
 636eadb1-4678-4e7c-9e52-15e856e428f8,thinkup.ai,resell,,,80,8,8,"NameCheap, Inc.",19/05/2023 07:49,19/05/2027 07:49
 639cc6a0-e2ac-48a3-9689-fc29fdb2ec3d,disobeying.ai,available,99.99,99.99,46,1,10,namesilo,,
-649d69fe-873d-4ed8-a96f-0af2337a9933,infrared.ai,resell,,,66,25,9,"Spaceship, Inc.",22/03/2018 14:56,22/03/2028 14:56
+649d69fe-873d-4ed8-a96f-0af2337a9933,infrared.ai,resell,,,66,18,9,"Spaceship, Inc.",22/03/2018 14:56,22/03/2028 14:56
 654c5201-4d3a-4e65-a0ef-77ad42748433,punched.ai,resell,,,50,3,7,"GoDaddy.com, LLC",07/05/2025 12:28,07/05/2027 12:28
 65661b48-110e-4650-b476-54587547dde3,gobeyond.ai,resell,,,76,18,9,"NameCheap, Inc.",26/01/2026 10:46,26/01/2028 10:46
 6566f2eb-b59b-4c4f-b905-fa811d147e4a,notions.ai,resell,,,54,8,7,"GoDaddy.com, LLC",02/04/2024 16:28,02/04/2028 16:28
@@ -174,7 +176,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6af93036-d480-4236-9c04-f550d95a8d2a,ovens.ai,resell,,,55,6,5,"GoDaddy.com, LLC",31/12/2023 12:15,31/12/2027 12:15
 6b86d7a3-f3ba-4f32-ac23-7833405e7081,reveals.ai,resell,,,53,5,7,"NameCheap, Inc.",13/04/2022 17:54,13/04/2028 17:54
 6b8c5d49-a953-4fb6-91bc-349ed46fa0a0,alcoholintoxication.ai,available,114.98,,48,1,20,namecheap,,
-6ba634f9-02f5-4c48-9f7e-25b8b5f3795e,thisway.ai,resell,,,67,12,8,"NameCheap, Inc.",08/02/2026 09:00,08/02/2028 09:00
+6ba634f9-02f5-4c48-9f7e-25b8b5f3795e,thisway.ai,resell,,,67,6,8,"NameCheap, Inc.",08/02/2026 09:00,08/02/2028 09:00
 6bdf62cb-5b82-40a9-a36b-0b458581d1a5,resemblance.ai,resell,,,77,3,11,"NameCheap, Inc.",03/03/2025 16:38,03/03/2027 16:38
 6c883d1c-e9c0-40eb-836c-fa9af827310d,howthedevil.ai,available,114.98,,40,0,13,namecheap,,
 6ca22696-a3fb-48ce-8a06-ac2714b60c84,calculators.ai,resell,,,54,16,11,"NameCheap, Inc.",17/04/2026 09:21,17/04/2028 09:21
@@ -217,7 +219,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 843d3945-432e-4f1f-b227-e64849e19d6b,happiest.ai,resell,,,64,10,8,Porkbun LLC,21/06/2019 14:56,21/06/2027 14:56
 84c84b09-6b1f-4efb-a345-aac371f2e977,organise.ai,resell,,,80,10,8,Porkbun LLC,08/02/2021 23:39,08/02/2027 23:39
 852b28f8-50dc-4008-91d1-132ccb4dcb4e,unhappy.ai,resell,,,68,6,7,"NameCheap, Inc.",26/02/2024 14:09,26/02/2028 14:09
-857763b0-0e6d-48c9-be5f-a627fb359b97,WestEnd.ai,resell,,,70,21,8,"Spaceship, Inc.",05/12/2023 16:29,05/12/2027 16:29
+857763b0-0e6d-48c9-be5f-a627fb359b97,WestEnd.ai,resell,,,70,19,8,"Spaceship, Inc.",05/12/2023 16:29,05/12/2027 16:29
 85ab7794-5106-45a9-8e52-982fe6857315,bolts.ai,resell,,,50,11,5,"NameCheap, Inc.",18/06/2025 04:07,18/06/2027 04:07
 87bdb07e-08e9-44f7-8af1-6bc8b8286fca,breakroom.ai,resell,,,70,8,10,"GoDaddy.com, LLC",21/11/2022 22:46,21/11/2026 22:46
 8843bfc8-2ec1-47fe-ad8c-879e588ab827,alcoholpoisoning.ai,available,114.98,,48,1,17,namecheap,,
@@ -290,9 +292,9 @@ b4ffc6c9-1ed7-4402-8a17-29e23a6d2513,victims.ai,resell,,,42,5,7,"GoDaddy.com, LL
 b565a2bb-2d86-44c5-8035-a9ada4320001,gobust.ai,available,114.98,,68,1,7,namecheap,,
 b64fa6b4-2ef8-41b0-a518-8ffe1509c22d,distresscall.ai,available,114.98,,32,1,13,namecheap,,
 b8632cfc-bee9-4938-9a8d-8ba450ce7998,hangbyathread.ai,available,114.98,,56,1,16,namecheap,,
-b948a6f9-0947-4733-9bc1-cc210300efd5,treeoflife.ai,resell,,,88,21,12,"NameCheap, Inc.",08/12/2025 00:49,08/12/2027 00:49
+b948a6f9-0947-4733-9bc1-cc210300efd5,treeoflife.ai,resell,,,88,13,12,"NameCheap, Inc.",08/12/2025 00:49,08/12/2027 00:49
 b9d876a3-ca22-4f53-bfc6-db6890eee3b0,germs.ai,resell,,,40,5,5,Porkbun LLC,14/10/2023 17:43,14/10/2027 17:43
-ba7c6c9c-e09d-4ee4-a5d9-20d614dfcf0c,bears.ai,resell,,,64,28,5,"NameCheap, Inc.",25/05/2022 19:49,25/05/2028 19:49
+ba7c6c9c-e09d-4ee4-a5d9-20d614dfcf0c,bears.ai,resell,,,64,19,5,"NameCheap, Inc.",25/05/2022 19:49,25/05/2028 19:49
 bb0b26f1-3ffc-42e4-995e-8b3725e18a59,offenses.ai,available,99.99,99.99,40,2,8,namesilo,,
 bb432439-2b51-4523-ab8f-83db26f5a649,appraised.ai,resell,,,50,4,9,"Spaceship, Inc.",02/02/2026 09:17,02/02/2028 09:17
 bbde8c81-4f53-4724-8b3b-4a4128f3d606,mortars.ai,available,99.99,99.99,40,2,7,namesilo,,
@@ -343,7 +345,7 @@ dbf8564c-19a9-4b83-96df-a729518b412d,filesharing.ai,resell,,,76,7,12,Dynadot Inc
 dc439230-3dd3-4dc8-8bac-8ca097f65fde,PopeGregoryI.ai,available,114.98,,28,1,14,namecheap,,
 dcb23c68-a8ce-49c3-9498-fabbf0a5b883,turnedoff.ai,available,114.98,,42,1,10,namecheap,,
 ddf2514a-4b44-41f3-ab30-bd9df9cc439e,gaps.ai,resell,,,40,8,4,"NameCheap, Inc.",27/04/2021 06:07,27/04/2027 06:07
-df7517a7-8bc3-4227-82f6-7b7a6e20b412,leaves.ai,resell,,,60,18,6,"NameCheap, Inc.",18/03/2018 05:00,18/03/2028 05:00
+df7517a7-8bc3-4227-82f6-7b7a6e20b412,leaves.ai,resell,,,60,13,6,"NameCheap, Inc.",18/03/2018 05:00,18/03/2028 05:00
 df753302-4249-44cd-a7d8-2d2473d10a48,traction.ai,resell,,,76,19,8,Atom.com Domains LLC,16/12/2017 04:27,15/04/2029 04:27
 dfc7bd31-9de8-4c3a-9221-a8483e8f7e41,comedies.ai,resell,,,56,3,8,"Spaceship, Inc.",04/04/2025 13:14,04/04/2027 13:14
 e1ced965-50fb-4fb7-a84b-281b42563c08,couldnotcareless.ai,available,114.98,,38,0,19,namecheap,,
@@ -488,7 +490,7 @@ cd29abbe-4711-4742-8419-e8a45e142114,greengrosbeak.ai,premium,,,38,72,14,,,
 5fd2e90e-f388-4503-8c08-4bf8177a9986,bythepiece.ai,premium,,,38,72,12,,,
 d17f573c-100c-4442-86ca-9f7dd6dc49b6,SovietBloc.ai,premium,,,,8,11,,,
 8592d3f4-556c-43ba-880a-c1b75d4591bd,bronc.ai,premium,,,60,76,5,,,
-ff20b456-8723-4407-85f0-860037faec1b,fillin.ai,resell,,,76,16,7,"GoDaddy.com, LLC",30/10/2024 08:06,30/10/2026 08:06
+ff20b456-8723-4407-85f0-860037faec1b,fillin.ai,resell,,,76,7,7,"GoDaddy.com, LLC",30/10/2024 08:06,30/10/2026 08:06
 57b0b480-4cce-47f2-9092-0b859a0923ee,biblicalstudies.ai,premium,,,38,72,16,,,
 dfcdbd23-5dc7-4260-ab6a-3dc5ade8e8bf,amnestied.ai,premium,,,50,72,9,,,
 5ca10afc-94aa-4516-87f6-ff5d1282ee3d,windmachine.ai,premium,,,60,72,12,,,
@@ -555,7 +557,7 @@ bcc65e87-2b66-46de-917b-0ad43b83d87c,patootie.ai,premium,,,56,72,8,,,
 49f10fcf-89ab-485c-8f24-2643a4b95bbf,grayace.ai,premium,,,48,72,8,,,
 006dcd29-2352-4e38-9aca-a75212b53d41,enginecycle.ai,premium,,,38,28,12,,,
 07b64abe-b2c3-4139-93fd-9c4cb1827853,countrified.ai,premium,,,50,72,11,,,
-9989ec37-af3b-493e-bfa8-c8d21fc9dfd0,givesomethingatry.ai,premium,,,72,12,20,,,
+9989ec37-af3b-493e-bfa8-c8d21fc9dfd0,givesomethingatry.ai,premium,,,72,1,20,,,
 90da4d49-e895-4b49-9881-0e328c19b8e8,Lawanda.ai,premium,,,56,76,7,,,
 0125d44d-7572-416d-930f-8b510af40de7,ironsulfate.ai,premium,,,36,72,12,,,
 ca92ec6e-1c74-4b11-aa43-b1d64dfdbf63,kilowatthour.ai,premium,,,56,72,13,,,
@@ -945,7 +947,7 @@ d4207c1a-007a-4550-9ad4-75087986719f,goalkeeper.ai,resell,,,58,80,10,"NameCheap,
 a6170d52-e00b-4ea8-9bea-5552d97d0428,totempole.ai,premium,,,54,72,10,,,
 fd5edf7c-1668-4d5a-84d0-60461ee7993d,IBMers.ai,premium,,,44,16,6,,,
 e7378ed8-4b89-456d-a42d-b0053a90a499,nonviolence.ai,premium,,,,32,11,,,
-f1b84db5-af81-4051-8583-15bb6b6236fe,IDK.ai,resell,,,56,27,3,"NameCheap, Inc.",16/07/2018 22:48,16/07/2026 22:48
+f1b84db5-af81-4051-8583-15bb6b6236fe,IDK.ai,resell,,,56,21,3,"NameCheap, Inc.",16/07/2018 22:48,16/07/2026 22:48
 dde75e74-4480-4807-bf7a-c2d9b136a26e,unbacked.ai,premium,,,52,72,8,,,
 6e70c73d-1b2a-44de-b45a-2a58debcac5a,pencilwhip.ai,premium,,,,72,11,,,
 47ccf00e-cc6f-45e5-892a-895a7b01b5fe,greenland.ai,resell,,,66,88,9,Porkbun LLC,07/12/2021 17:13,07/12/2025 17:13
@@ -997,5 +999,3 @@ af15d7d0-3921-4dce-99b2-7e9c9b021de4,vegetableoil.ai,premium,,,,76,13,,,
 d4ad9f85-dfe1-4b14-ba5a-27a528b50f97,Knicks.ai,premium,,,62,72,6,,,
 40f46745-68e3-4c2f-a96e-be66cc3e19c7,browneyed.ai,premium,,,62,72,10,,,
 59a80c7e-8062-4bbc-a860-2addf9d76d8f,votingsystem.ai,premium,,,54,72,13,,,
-9bdb630b-b39d-4c75-be08-c969d4cfc9bd,laconicism.ai,premium,,,52,72,10,,,
-58124168-4712-45f2-86c4-4572be9d7bf6,Coulombrepulsion.ai,premium,,,50,72,17,,,

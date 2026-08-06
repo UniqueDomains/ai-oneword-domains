@@ -1,10 +1,10 @@
-# Available .AI One-Word Domains (54,533)
+# Available .AI One-Word Domains (54,573)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-54%2C533%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-54%2C573%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .ai one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **54,533 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **54,573 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 54,533 domains · **Median ask:** $100.72 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 54,573 domains · **Median ask:** $99.05 · **High-demand under $2,500:** 1,000
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/ai`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/ai`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .AI one-word domain ca
 
 ### Files
 
-- `ai.csv` — public CSV extract (1,000 rows)
-- `ai.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `ai.csv`, public CSV extract (1,000 rows)
+- `ai.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| romani.ai        | available | $92.98    | —             | 88             | 92     | 6      | namecheap              |
-| hermes.ai        | resell    | —         | —             | 84             | 96     | 6      | Spaceship, Inc.        |
-| catnap.ai        | premium   | —         | —             | 84             | 88     | 6      | —                      |
-| bushy.ai         | available | $92.98    | —             | 80             | 80     | 5      | namecheap              |
-| ranger.ai        | resell    | —         | —             | 76             | 92     | 6      | Deep Vision Architects |
-| goodnature.ai    | premium   | —         | —             | 72             | 88     | 11     | —                      |
-| haem.ai          | available | $92.98    | —             | 59             | 80     | 4      | namecheap              |
-| norma.ai         | resell    | —         | —             | 72             | 92     | 5      | Dynadot Inc            |
-| peeling.ai       | premium   | —         | —             | 64             | 88     | 7      | —                      |
-| againandagain.ai | available | $92.98    | —             | 44             | 80     | 15     | namecheap              |
-| reporter.ai      | resell    | —         | —             | 68             | 92     | 8      | NameCheap, Inc.        |
-| trimaran.ai      | premium   | —         | —             | 56             | 88     | 8      | —                      |
-| fijian.ai        | available | $92.98    | —             | 84             | 76     | 6      | namecheap              |
-| esse.ai          | resell    | —         | —             | 60             | 92     | 4      | Porkbun LLC            |
-| golfbag.ai       | premium   | —         | —             | 70             | 84     | 8      | —                      |
-| accrimination.ai | available | $92.98    | —             | 52             | 76     | 13     | namecheap              |
-| sou.ai           | resell    | —         | —             | 50             | 92     | 3      | EuroDNS S.A.           |
-| mudroom.ai       | premium   | —         | —             | 60             | 84     | 7      | —                      |
-| moslem.ai        | available | $92.98    | —             | 77             | 72     | 6      | namecheap              |
-| kangaroo.ai      | resell    | —         | —             | 104            | 88     | 8      | Deep Vision Architects |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| haem.ai   | available | $92.98    | —             | medium         | high   | 4      | namecheap        |
+| IDK.ai    | resell    | —         | —             | medium         | low    | 3      | NameCheap, Inc.  |
+| bowed.ai  | available | $92.98    | —             | medium         | low    | 5      | namecheap        |
+| ixc.ai    | resell    | —         | —             | low            | low    | 3      | Spaceship, Inc.  |
+| bushy.ai  | available | $92.98    | —             | high           | high   | 5      | namecheap        |
+| sou.ai    | resell    | —         | —             | medium         | high   | 3      | EuroDNS S.A.     |
+| dimed.ai  | available | $92.98    | —             | medium         | low    | 5      | namecheap        |
+| TLO.ai    | resell    | —         | —             | medium         | high   | 3      | Spaceship, Inc.  |
+| cutto.ai  | available | $92.98    | —             | medium         | low    | 6      | namecheap        |
+| cozy.ai   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| fijian.ai | available | $92.98    | —             | high           | high   | 6      | namecheap        |
+| DApp.ai   | resell    | —         | —             | medium         | high   | 4      | Porkbun LLC      |
+| moslem.ai | available | $92.98    | —             | high           | high   | 6      | namecheap        |
+| esse.ai   | resell    | —         | —             | medium         | high   | 4      | Porkbun LLC      |
+| oohing.ai | available | $92.98    | —             | medium         | high   | 6      | namecheap        |
+| flit.ai   | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC |
+| romani.ai | available | $92.98    | —             | high           | high   | 6      | namecheap        |
+| flop.ai   | resell    | —         | —             | medium         | low    | 4      | Zenaida AXA      |
+| septet.ai | available | $89.98    | $114.98       | low            | low    | 6      | namecheap        |
+| pils.ai   | resell    | —         | —             | medium         | medium | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 54,533 live domains                        |
+| 1,000-row public sample | 54,573 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1,000 high-demand names under $2,500       |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely focused on one-word .ai domains. It includes straightforward dictionary terms, expressive words, and sharper brandable options such as avocado.ai, pleasing.ai, massive.ai, swop.ai, and tamper.ai. For founders, the main question is whether a name is memorable, easy to say, and specific enough to anchor a company without feeling narrow. For investors, the key test is whether the ask leaves room for resale upside relative to word quality and likely buyer breadth. Across this set, compare each name on clarity, commercial flexibility, pronunciation, trademark risk, and the ongoing cost of holding a .ai asset.
+This list includes 54,573 one-word .AI domains spanning available and resale status. Most listings (48,208) are ownable now, with a median ask near $99, while a smaller resale segment (6,365) reflects secondary-market pricing. Demand is concentrated in the High tier (35,944 domains), signaling strong brandability across short, single-word names like makeit.ai, sage.ai, and clean.ai.
 
-- Prioritize clear, pronounceable words with broad buyer appeal
-- Use the 94.92 median ask as a basic price reality check
-- Check whether the word feels specific or broadly brandable
-- Review trademark exposure before paying for stronger words
+- 48,208 domains available now; 6,365 in resale status
+- Median ask near $99 across this .AI selection
+- 35,944 domains rank High (70–84) on demand scoring
+- Undervalued picks include airtransport.ai, partypolitics.ai
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AI One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AI One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

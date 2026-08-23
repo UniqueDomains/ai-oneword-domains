@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ai one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 57,399 domains · **Median ask:** $92.26 · **High-demand under $2,500:** 985
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-23
 **Canonical page:** `https://unique.domains/domains/tld/ai`
 **Best for:** founders, investors, studios
 
@@ -74,7 +74,7 @@ print(df.head())
 | sou.ai    | resell    | —         | —             | medium         | high   | 3      | EuroDNS S.A.    |
 | fijian.ai | available | $92.98    | —             | high           | high   | 6      | namecheap       |
 | TLO.ai    | resell    | —         | —             | medium         | high   | 3      | Spaceship, Inc. |
-| moslem.ai | available | $92.98    | —             | high           | high   | 6      | namecheap       |
+| moslem.ai | available | $89.98    | $114.98       | low            | low    | 6      | namecheap       |
 | cozy.ai   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
 | oohing.ai | available | $92.98    | —             | medium         | high   | 6      | namecheap       |
 | DApp.ai   | resell    | —         | —             | medium         | high   | 4      | Porkbun LLC     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AI One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AI One-Word Domains*. Version 2026-08-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

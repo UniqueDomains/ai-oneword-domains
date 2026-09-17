@@ -1,10 +1,10 @@
-# Available .AI One-Word Domains (60,209)
+# Available .AI One-Word Domains (60,433)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-60%2C209%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-60%2C433%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ai one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **60,209 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **60,433 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 60,209 domains · **Median ask:** $91.60 · **High-demand under $2,500:** 953
+**Public extract:** 1,000 rows · **Live catalog:** 60,433 domains · **Median ask:** $91.55 · **High-demand under $2,500:** 953
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/tld/ai`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| haem.ai   | available | $92.98    | —             | medium         | high   | 4      | namecheap       |
-| bushy.ai  | resell    | $92.98    | —             | medium         | low    | 5      | NameCheap, Inc. |
-| bowed.ai  | available | $79.98    | $114.98       | low            | low    | 5      | namecheap       |
-| IDK.ai    | resell    | —         | —             | medium         | low    | 3      | NameCheap, Inc. |
-| dimed.ai  | available | $92.98    | —             | medium         | low    | 5      | namecheap       |
-| ixc.ai    | resell    | —         | —             | low            | low    | 3      | Spaceship, Inc. |
-| cutto.ai  | available | $92.98    | —             | medium         | low    | 6      | namecheap       |
-| sou.ai    | resell    | —         | —             | medium         | high   | 3      | EuroDNS S.A.    |
-| fijian.ai | available | $92.98    | —             | high           | high   | 6      | namecheap       |
-| TLO.ai    | resell    | —         | —             | medium         | high   | 3      | Spaceship, Inc. |
-| foxily.ai | available | $89.98    | $114.98       | low            | low    | 6      | namecheap       |
-| cozy.ai   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
-| moslem.ai | available | $89.98    | $114.98       | low            | low    | 6      | namecheap       |
-| DApp.ai   | resell    | —         | —             | medium         | high   | 4      | Porkbun LLC     |
-| oohing.ai | available | $92.98    | —             | medium         | high   | 6      | namecheap       |
-| esse.ai   | resell    | —         | —             | medium         | high   | 4      | Porkbun LLC     |
-| plumed.ai | available | $89.98    | $114.98       | low            | low    | 6      | namecheap       |
-| flit.ai   | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc. |
-| ridged.ai | available | $79.98    | $114.98       | low            | low    | 6      | namecheap       |
-| flop.ai   | resell    | —         | —             | medium         | low    | 4      | Zenaida AXA     |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| JesusChrist.ai | resell    | —         | —             | high           | low    | 12     | NameCheap, Inc. |
+| haem.ai        | available | $92.98    | —             | medium         | high   | 4      | namecheap       |
+| bushy.ai       | resell    | $92.98    | —             | medium         | low    | 5      | NameCheap, Inc. |
+| bowed.ai       | available | $79.98    | $114.98       | low            | low    | 5      | namecheap       |
+| IDK.ai         | resell    | —         | —             | medium         | low    | 3      | NameCheap, Inc. |
+| dimed.ai       | available | $92.98    | —             | medium         | low    | 5      | namecheap       |
+| ixc.ai         | resell    | —         | —             | low            | low    | 3      | Spaceship, Inc. |
+| cutto.ai       | available | $92.98    | —             | medium         | low    | 6      | namecheap       |
+| sou.ai         | resell    | —         | —             | medium         | high   | 3      | EuroDNS S.A.    |
+| fijian.ai      | available | $92.98    | —             | high           | high   | 6      | namecheap       |
+| TLO.ai         | resell    | —         | —             | medium         | high   | 3      | Spaceship, Inc. |
+| foxily.ai      | available | $89.98    | $114.98       | low            | low    | 6      | namecheap       |
+| cozy.ai        | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
+| moslem.ai      | available | $89.98    | $114.98       | low            | low    | 6      | namecheap       |
+| DApp.ai        | resell    | —         | —             | medium         | high   | 4      | Porkbun LLC     |
+| oohing.ai      | available | $92.98    | —             | medium         | high   | 6      | namecheap       |
+| esse.ai        | resell    | —         | —             | medium         | high   | 4      | Porkbun LLC     |
+| plumed.ai      | available | $89.98    | $114.98       | low            | low    | 6      | namecheap       |
+| flit.ai        | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc. |
+| ridged.ai      | available | $79.98    | $114.98       | low            | low    | 6      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 60,209 live domains                        |
+| 1,000-row public sample | 60,433 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 953 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AI One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AI One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

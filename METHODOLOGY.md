@@ -19,6 +19,8 @@ The CSV and JSON files are the public extract published for that search. Unique 
 - Catalog counts
 - Decision-support scores
 
+A row carries `status_verified_at`, the date its status was last established against a registry. It is per row, and it is not the snapshot date: the export is rebuilt daily, the catalog is not re-checked daily. Treat a status without a recent `status_verified_at` as a last known reading rather than a current one.
+
 ## Caveats
 
 - This dataset is decision support, not a guarantee of buyability, value, trademark clearance, or SEO outcome.

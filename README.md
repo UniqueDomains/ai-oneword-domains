@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ai one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 62,246 domains · **Median ask:** $91.90 · **High-demand under $2,500:** 928
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/ai`
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | idk.ai         | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc. |
 | dimed.ai       | available | $92.98    | —             | medium         | low    | 5      | namecheap       |
 | ixc.ai         | resell    | —         | —             | low            | low    | 3      | Spaceship, Inc. |
-| cutto.ai       | available | $92.98    | —             | medium         | low    | 6      | namecheap       |
+| cowpea.ai      | available | $99.99    | $99.99        | low            | low    | 6      | namesilo        |
 | tlo.ai         | resell    | —         | —             | medium         | high   | 3      | Spaceship, Inc. |
+| cutto.ai       | available | $92.98    | —             | medium         | low    | 6      | namecheap       |
+| cozy.ai        | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc     |
 | fijian.ai      | available | $92.98    | —             | high           | high   | 6      | namecheap       |
-| cozy.ai        | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
-| foxily.ai      | available | $89.98    | $114.98       | low            | low    | 6      | namecheap       |
 | dapp.ai        | resell    | —         | —             | medium         | high   | 4      | Porkbun LLC     |
-| kochia.ai      | available | $99.99    | $99.99        | low            | low    | 6      | namesilo        |
+| foxily.ai      | available | $89.98    | $114.98       | low            | low    | 6      | namecheap       |
 | esse.ai        | resell    | —         | —             | medium         | high   | 4      | Porkbun LLC     |
-| moslem.ai      | available | $89.98    | $114.98       | low            | low    | 6      | namecheap       |
+| kochia.ai      | available | $99.99    | $99.99        | low            | low    | 6      | namesilo        |
 | flit.ai        | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc. |
+| moslem.ai      | available | $89.98    | $114.98       | low            | low    | 6      | namecheap       |
+| flop.ai        | resell    | —         | —             | low            | low    | 4      | Zenaida AXA     |
 | oohing.ai      | available | $92.98    | —             | medium         | high   | 6      | namecheap       |
-| flop.ai        | resell    | —         | —             | medium         | low    | 4      | Zenaida AXA     |
-| plumed.ai      | available | $89.98    | $114.98       | low            | low    | 6      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AI One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AI One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

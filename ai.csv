@@ -46,7 +46,7 @@ b87b3d0b-ba97-4e20-86a8-e10aeeb31d54,northerners.ai,available,,,low,low,11,,,,
 5adf0100-b66f-4bb4-9184-cd8448217e7b,bluebutter.ai,available,,,medium,high,11,,,,
 aa646605-cd22-421f-9db9-d9e964a1e15e,goalong.ai,available,99.99,99.99,high,low,8,namesilo,,,
 c6191514-4814-41f9-82fd-cb469d18f372,rudderless.ai,available,89.98,114.98,low,low,10,namecheap,,,
-26b67556-cd67-4a99-bbd9-0becb4d98689,flop.ai,resell,,,medium,low,4,Zenaida AXA,06/01/2018 04:00,05/01/2028 04:00,
+26b67556-cd67-4a99-bbd9-0becb4d98689,flop.ai,resell,,,low,low,4,Zenaida AXA,06/01/2018 04:00,05/01/2028 04:00,23/09/2026 12:03
 252e726c-5767-4c38-9776-d9296e2da14d,nosql.ai,resell,,,medium,high,5,Dynadot Inc,31/05/2025 00:35,31/05/2027 00:35,
 9bae0d25-a02b-4c4a-bf4b-c4a6719fa35f,amuse.ai,resell,,,high,low,5,Dynadot Inc,08/11/2022 16:02,08/11/2028 16:02,
 369428d4-943a-4860-9ec1-10516d9de5af,distancingeffect.ai,available,,,medium,high,17,,,,
@@ -108,7 +108,7 @@ aaa20937-5bc8-4a93-af60-849a52bc2737,outoftheordinary.ai,available,,,medium,high
 7ac18e87-453d-447f-8039-2484da7563db,resupply.ai,resell,,,high,high,8,"NameCheap, Inc.",23/06/2025 01:19,23/06/2027 01:19,
 531d1eae-6d69-4c31-b5fc-1fc56b5251e5,polyglotism.ai,available,,,medium,low,11,,,,
 5be14e40-d769-4acb-bdaa-0ca9c66c78ce,oregonjargon.ai,available,,,low,low,13,,,,
-f5f8b8f1-d23f-49e3-8082-e0f2d1919379,birdfood.ai,available,,,medium,high,9,,,,
+f5f8b8f1-d23f-49e3-8082-e0f2d1919379,birdfood.ai,available,89.98,114.98,low,low,9,namecheap,,,23/09/2026 19:49
 85f137f2-4605-4223-82ec-35d56cc7e43f,maketheriffle.ai,available,,,medium,high,15,,,,
 6d30e13d-c2bd-4d4e-9f0f-db221986aae4,israelites.ai,available,,,medium,high,10,,,,
 bf7c7918-b019-4d4c-a1f4-2ee876571a7d,sexualcapital.ai,available,,,medium,high,14,,,,
@@ -170,7 +170,7 @@ ca92ec6e-1c74-4b11-aa43-b1d64dfdbf63,kilowatthour.ai,available,,,medium,high,13,
 f998fa48-db00-40b7-8834-d85f0e17ae5e,wellplayed.ai,resell,,,medium,high,11,"Spaceship, Inc.",11/04/2025 01:09,11/04/2027 01:09,
 c82ebd90-ea14-46f9-8124-8e9ad61ba1eb,souptonuts.ai,available,,,medium,high,12,,,,
 39de089b-81d9-4d70-8427-bd5ae016cb16,peacewall.ai,available,,,medium,high,10,,,,
-d179793e-17b2-458e-9f3e-3bf4fb23ce4a,cowpea.ai,available,,,medium,high,6,,,,
+d179793e-17b2-458e-9f3e-3bf4fb23ce4a,cowpea.ai,available,99.99,99.99,low,low,6,namesilo,,,23/09/2026 23:43
 d86373be-2e7d-4bc6-92d5-2d1d06b39e05,makemeat.ai,available,,,medium,high,9,,,,
 9a79272e-6447-4c4c-afe2-7127106b2d8d,phindicator.ai,available,,,medium,high,12,,,,
 a0d0c136-3f4a-41a3-8d5a-146745437b46,marylouise.ai,available,,,medium,high,10,,,,
@@ -333,7 +333,7 @@ de8bb59c-7ed1-4aea-a1de-456537323859,poparound.ai,available,,,medium,high,10,,,,
 2f8031f4-e401-46df-afda-060afa81888a,bridleup.ai,available,,,medium,high,9,,,,
 b64ea63f-94dc-4b04-a491-5ff71de5e7b3,ladyship.ai,available,,,medium,high,8,,,,
 451664db-5cc0-40f6-b0c3-836b36d4fca4,queenofsheba.ai,available,,,medium,high,14,,,,
-b9234b9f-03c1-42ac-b0d3-99c42cebe991,cozy.ai,resell,,,high,low,4,Dynadot Inc,15/12/2017 22:53,08/11/2027 22:53,
+b9234b9f-03c1-42ac-b0d3-99c42cebe991,cozy.ai,resell,,,medium,low,4,Dynadot Inc,15/12/2017 22:53,08/11/2027 22:53,24/09/2026 00:21
 a46da6ae-3b82-4b8e-9aaf-92a5a71b840f,tetrahedra.ai,available,,,low,low,10,,,,
 b4a3f280-5e58-4ab2-8e8e-ba6b53a26080,platformbridge.ai,available,,,medium,high,15,,,,
 4cfdb07c-68db-4357-bc68-404acfb9367c,goths.ai,available,,,medium,low,5,,,,
@@ -434,6 +434,7 @@ f308b70b-6b84-41d2-b563-d247334863e9,femtogram.ai,available,,,medium,high,9,,,,
 8af5757c-b868-469f-8072-138fc04feddb,firstunit.ai,available,,,medium,high,10,,,,
 33da8097-0c9e-4288-bed6-41ebcbb49d30,woolworks.ai,available,,,medium,high,9,,,,
 473afef6-040c-4017-8e0d-7cca605d5e0f,wordblind.ai,available,89.98,114.98,low,low,10,namecheap,,,
+2ebb6b61-193f-4630-9628-f2a4927b0756,compressed.ai,resell,,,medium,low,10,"GoDaddy.com, LLC",19/05/2018 20:07,19/05/2028 20:07,23/09/2026 18:05
 bef4804e-7eff-439b-a3bc-357b8ed94a2e,happyjack.ai,available,,,medium,high,10,,,,
 4d2489ec-cdc0-4657-808e-75d02fcb19ff,romani.ai,available,92.98,,high,high,6,namecheap,,,
 3579d00d-1778-42e2-a61b-8ce3921c15d9,appartement.ai,available,,,medium,high,11,,,,
@@ -588,7 +589,7 @@ ab0ee1c2-c587-4878-ae14-501d901b7c56,canasta.ai,resell,,,low,low,7,,,,22/09/2026
 d6a3ca81-f1b0-4b06-8c5f-8aefdc95ab2a,filmnoir.ai,available,,,medium,medium,9,,,,
 b0836275-2c2a-4130-9566-efc2569ff363,porkknuckle.ai,available,,,low,low,12,,,,
 e331008c-d87c-4e45-b040-42b9c0cdd132,thickening.ai,available,89.98,114.98,low,low,10,namecheap,,,11/09/2026 13:12
-66339d7d-ca14-4b63-bcbc-18c9709ac389,tenting.ai,available,,,high,high,7,,,,
+66339d7d-ca14-4b63-bcbc-18c9709ac389,tenting.ai,available,89.98,114.98,medium,low,7,namecheap,,,23/09/2026 23:16
 03dbab07-4c1a-4046-a62b-c28b6a5b2590,truncated.ai,available,89.98,114.98,low,low,9,namecheap,,,11/09/2026 20:42
 f86b98a8-9fa6-4abf-b4c7-5189bd48f516,condere.ai,available,,,medium,high,7,,,,
 d2aa9113-797e-409b-b12d-1934bb1f9333,golfpencil.ai,available,,,medium,high,11,,,,
@@ -783,7 +784,7 @@ f1a1ed44-7216-4ec9-8a1a-4d7f0020d225,ascitic.ai,available,79.98,114.98,low,low,7
 059d0c8e-6f23-44eb-ab58-17c8e40774bb,dragondance.ai,available,,,medium,medium,12,,,,
 28f2de87-1fb4-455e-8d97-6d12029c2769,plausive.ai,available,79.98,114.98,low,low,8,namecheap,,,06/08/2026 08:54
 cff95a3b-7ffb-42b1-a357-c80f44e4cb47,faulttolerance.ai,available,,,medium,high,15,,,,
-a0a855aa-b167-4091-9f7f-582bed9a69af,blacksburg.ai,available,,,medium,medium,10,,,,
+a0a855aa-b167-4091-9f7f-582bed9a69af,blacksburg.ai,available,99.99,99.99,low,low,10,namesilo,,,24/09/2026 02:57
 d66645fe-db08-4e17-a420-94d51a9d0548,maglev.ai,resell,,,high,high,6,"NameCheap, Inc.",13/03/2018 01:25,13/03/2026 01:25,
 d61d3b8c-ab63-48f4-aa83-f97fe8093d4a,cocoabean.ai,available,,,medium,high,10,,,,
 063f285e-4a55-4993-abe2-e66bd2a558a8,americanway.ai,available,114.98,,medium,low,12,namecheap,,,
@@ -998,4 +999,3 @@ c6cc21c8-93d6-44fb-b946-1494914ecc9c,wetting.ai,available,,,high,high,7,,,,
 7c8755ce-486e-49d9-987c-2c70702ad896,weinerdog.ai,available,,,medium,high,10,,,,
 c1c9692e-2809-4ac8-88eb-15ca984fd7be,aerie.ai,resell,,,medium,medium,5,"GoDaddy.com, LLC",05/03/2022 15:10,05/03/2028 15:10,
 11603f96-fec1-4d26-a2b1-d9a6a54df44c,stonesheep.ai,available,,,medium,high,11,,,,
-0348db6b-5abe-4689-ba62-b4903fe34bbb,sausagecasing.ai,available,,,medium,high,14,,,,

@@ -6,7 +6,7 @@ authors:
   - name: "Unique Domains"
 version: "2026-10-03"
 date-released: "2026-10-03"
-url: "https://unique.domains/domains/tld/ai"
+url: "https://unique.domains/tld/ai"
 repository-code: "https://github.com/UniqueDomains/ai-oneword-domains"
 license: "See LICENSE"
 abstract: "Daily-updated public extract of available and resale .ai one-word domains from Unique Domains."

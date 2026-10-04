@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ai one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,094 domains · **Median ask:** $90.01 · **High-demand under $2,500:** 550
 
-**.AI market:** 56,696 names available · Median registration $85.60 · Median renewal $84.15 · 3,804 sales in the last 12 months · Median sale $830 (USD sales, last 12 months)
+**.AI market:** 56,959 names available · Median registration $85.60 · Median renewal $84.15 · 3,696 sales in the last 12 months · Median sale $810 (USD sales, last 12 months)
 
 **Last updated:** 2026-10-04
 **Canonical page:** `https://unique.domains/tld/ai`
@@ -70,7 +70,7 @@ print(df.head())
 | xeric.ai     | resell    | $92.98    | —             | high           | low    | 5      | Spaceship, Inc.      |
 | assr.ai      | available | $79.98    | $79.98        | high           | low    | 4      | spaceship            |
 | chickpeas.ai | resell    | $99.99    | $99.99        | high           | low    | 9      | Dynadot Inc          |
-| lxiv.ai      | available | $89.98    | $114.98       | medium         | low    | 4      | namecheap            |
+| lxiv.ai      | available | $80       | $80           | medium         | low    | 4      | cloudflare           |
 | ane.ai       | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.      |
 | nmda.ai      | available | $90       | —             | high           | low    | 4      | unstoppable          |
 | atp.ai       | resell    | —         | —             | high           | low    | 3      | —                    |

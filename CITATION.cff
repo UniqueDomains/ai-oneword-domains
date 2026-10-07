@@ -4,8 +4,8 @@ title: "Available .AI One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-10-06"
-date-released: "2026-10-06"
+version: "2026-10-07"
+date-released: "2026-10-07"
 url: "https://unique.domains/tld/ai"
 repository-code: "https://github.com/UniqueDomains/ai-oneword-domains"
 license: "See LICENSE"

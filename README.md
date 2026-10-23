@@ -1,10 +1,10 @@
-# Available .AI One-Word Domains (35,435)
+# Available .AI One-Word Domains (20,054)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C435%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C054%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,13 +12,13 @@
 Daily-updated public extract of available and resale .ai one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **35,435 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,054 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 35,435 domains · **Median ask:** $89.87 · **High-demand under $2,500:** 470
+**Public extract:** 1,000 rows · **Live catalog:** 20,054 domains · **Median ask:** $89.33 · **High-demand under $2,500:** 676
 
-**.AI market:** 63,155 names available · Median registration $85.60 · Median renewal $84.15 · 3,683 sales in the last 12 months · Median sale $810 (USD sales, last 12 months)
+**.AI market:** 63,487 names available · Median registration $85.60 · Median renewal $84.15 · 3,680 sales in the last 12 months · Median sale $810 (USD sales, last 12 months)
 
-**Last updated:** 2026-10-21
+**Last updated:** 2026-10-23
 **Canonical page:** `https://unique.domains/tld/ai`
 **Best for:** founders, investors, studios
 
@@ -64,28 +64,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| arng.ai  | available | $99.99    | $99.99        | medium         | low    | 4      | namesilo             |
-| nappe.ai | resell    | $92.98    | —             | high           | low    | 5      | NameCheap, Inc.      |
-| assr.ai  | available | $79.98    | $79.98        | high           | low    | 4      | spaceship            |
-| xeric.ai | resell    | $92.98    | —             | high           | low    | 5      | Spaceship, Inc.      |
-| awls.ai  | available | $80       | $80           | medium         | low    | 4      | cloudflare           |
-| aae.ai   | resell    | —         | —             | medium         | low    | 3      | —                    |
-| fgfr.ai  | available | $99.99    | $99.99        | medium         | low    | 4      | namesilo             |
-| ane.ai   | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.      |
-| icmp.ai  | available | $79.98    | $79.98        | high           | low    | 4      | spaceship            |
-| atp.ai   | resell    | —         | —             | high           | low    | 3      | —                    |
-| lxiv.ai  | available | $80       | $80           | high           | low    | 4      | cloudflare           |
-| aus.ai   | resell    | —         | —             | high           | low    | 3      | Hyper Limited        |
-| nmda.ai  | available | $90       | —             | high           | low    | 4      | unstoppable          |
-| auv.ai   | resell    | —         | —             | high           | low    | 3      | —                    |
-| nrel.ai  | available | $92.98    | —             | high           | high   | 4      | namecheap            |
-| bcr.ai   | resell    | —         | —             | high           | low    | 3      | —                    |
-| nung.ai  | available | $90       | —             | high           | low    | 4      | unstoppable          |
-| ccp.ai   | resell    | —         | —             | high           | low    | 3      | Atom.com Domains LLC |
-| nwmp.ai  | available | $92.98    | —             | high           | high   | 4      | namecheap            |
-| coa.ai   | resell    | —         | —             | high           | low    | 3      | —                    |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| sculpt.ai    | resell    | —         | —             | high           | low    | 6      | Deep Vision Architects |
+| profound.ai  | resell    | —         | —             | high           | medium | 8      | Deep Vision Architects |
+| assr.ai      | available | $79.98    | $79.98        | high           | low    | 4      | spaceship              |
+| nappe.ai     | resell    | $92.98    | —             | high           | low    | 5      | NameCheap, Inc.        |
+| icmp.ai      | available | $79.98    | $79.98        | high           | low    | 4      | spaceship              |
+| xeric.ai     | resell    | $92.98    | —             | high           | low    | 5      | Spaceship, Inc.        |
+| lxiv.ai      | available | $80       | $80           | high           | low    | 4      | cloudflare             |
+| chickpeas.ai | resell    | $99.99    | $99.99        | high           | low    | 9      | Dynadot Inc            |
+| nmda.ai      | available | $90       | —             | high           | low    | 4      | unstoppable            |
+| aae.ai       | resell    | —         | —             | high           | low    | 3      | —                      |
+| nwmp.ai      | available | $92.98    | —             | high           | high   | 4      | namecheap              |
+| ane.ai       | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.        |
+| ptfe.ai      | available | $90       | —             | high           | low    | 4      | unstoppable            |
+| asl.ai       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.        |
+| tdrs.ai      | available | $85.60    | $85.60        | high           | low    | 4      | dynadot                |
+| atp.ai       | resell    | —         | —             | high           | low    | 3      | —                      |
+| woty.ai      | available | $92.98    | —             | high           | medium | 4      | namecheap              |
+| aug.ai       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC       |
+| audad.ai     | available | $99.99    | $99.99        | high           | low    | 5      | namesilo               |
+| auv.ai       | resell    | —         | —             | high           | low    | 3      | —                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,9 +95,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 35,435 live domains                                  |
+| 1,000-row public sample | 20,054 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 470 high-demand names under $2,500                   |
+| Basic exported fields   | 676 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -146,7 +146,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AI One-Word Domains*. Version 2026-10-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AI One-Word Domains*. Version 2026-10-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

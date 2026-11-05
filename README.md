@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ai one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,562 domains · **Median ask:** $88.84 · **High-demand under $2,500:** 3,102
 
-**.AI market:** 64,225 names available · Median registration $85.60 · Median renewal $84.15 · 3,531 sales in the last 12 months · Median sale $811 (USD sales, last 12 months)
+**.AI market:** 64,228 names available · Median registration $85.60 · Median renewal $84.15 · 3,518 sales in the last 12 months · Median sale $810 (USD sales, last 12 months)
 
 **Last updated:** 2026-11-05
 **Canonical page:** `https://unique.domains/tld/ai`

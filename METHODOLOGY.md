@@ -2,31 +2,21 @@
 
 ## Scope
 
-This repository represents the exact public search at `https://unique.domains/domains/tld/ai`.
+This repository is the public extract of the page at `https://unique.domains/tld/ai`.
 
-The CSV and JSON files are the public extract published for that search. Unique Domains can contain more domains, more filters, and more workflow state than the files in this repository.
+- The files hold 1,000 rows of the 19,216 names in the live list today.
+- Every row is a one-word domain name.
+- Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
-## Source Of Truth
+## What changes over time
 
-- Repository copy, links, counts, topics, and asset filenames are generated from one manifest per dataset repo.
-- The README live catalog count uses the public landing response when it is available.
-- The public extract size comes from the generated CSV and JSON payload for this repository.
+- Statuses
+- Prices
+- Counts
 
-## What Changes Over Time
-
-- Domain statuses
-- Visible prices
-- Catalog counts
-- Decision-support scores
-
-A row carries `status_verified_at`, the date its status was last established against a registry. It is per row, and it is not the snapshot date: the export is rebuilt daily, the catalog is not re-checked daily. Treat a status without a recent `status_verified_at` as a last known reading rather than a current one.
+The export is rebuilt every night; the catalog is not re-checked every night. Treat a status as the last known reading, not a current one.
 
 ## Caveats
 
-- This dataset is decision support, not a guarantee of buyability, value, trademark clearance, or SEO outcome.
-- Missing values are preserved when the upstream search does not expose a field.
-- The public extract is intentionally smaller than the full Unique Domains dataset when the live catalog exceeds the exported row count.
-
-## Refresh Policy
-
-This repository is refreshed on the export schedule used by the Unique Domains dataset pipeline. Stable historical references should be created through GitHub Releases rather than by relying on `main`.
+- This dataset is decision support, not a guarantee of availability, value, trademark clearance or search outcome.
+- A missing value stays empty: the export never fills one in.

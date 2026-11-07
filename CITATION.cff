@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
-title: "Available .AI One-Word Domains"
+title: "One-word .ai domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-11-06"
-date-released: "2026-11-06"
+version: "2026-11-07"
+date-released: "2026-11-07"
 url: "https://unique.domains/tld/ai"
 repository-code: "https://github.com/UniqueDomains/ai-oneword-domains"
-license: "See LICENSE"
+license: CC-BY-4.0
 abstract: "Daily-updated public extract of available and resale .ai one-word domains from Unique Domains."

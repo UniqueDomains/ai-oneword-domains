@@ -1,6 +1,6 @@
 # Available .AI One-Word Domains
 
-35,495 one-word .ai names are free to register today. Cheapest first year $79.98 at Spaceship, renewal $79.98 there. 3,509 .ai sales in the last 12 months, median $810.
+35,321 one-word .ai names are free to register today. Cheapest first year $79.98 at Spaceship, renewal $79.98 there. 3,505 .ai sales in the last 12 months, median $810.
 
 Live page: [unique.domains/tld/ai](https://unique.domains/tld/ai?utm_source=github&utm_medium=referral&utm_campaign=repo_ai_oneword_domains&utm_content=top_tld_page)
 

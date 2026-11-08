@@ -24,6 +24,7 @@ The first 20 rows of the file, in the file's order.
 
 | domain            | status    | purchase_price | renewal_price | attractiveness | demand | length |
 | ----------------- | --------- | -------------- | ------------- | -------------- | ------ | ------ |
+| exuberantly.ai    | available | $99.99         | $99.99        | high           | low    | 11     |
 | gongorist.ai      | available | $99.99         | $99.99        | high           | high   | 9      |
 | sculpt.ai         | resell    | —              | —             | high           | low    | 6      |
 | antepast.ai       | available | $80            | $80           | high           | low    | 8      |
@@ -43,7 +44,6 @@ The first 20 rows of the file, in the file's order.
 | autoimmune.ai     | resell    | —              | —             | high           | low    | 10     |
 | subdomain.ai      | resell    | —              | —             | high           | low    | 9      |
 | microohms.ai      | available | —              | —             | high           | low    | 10     |
-| tempests.ai       | available | —              | —             | high           | low    | 8      |
 
 ## What is in the data
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 19,092 names in the live list today.
+- The files hold 1,000 rows of the 19,176 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 

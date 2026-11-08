@@ -1,4 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
+d7dbb6c3-4018-4036-8d20-8780045e40c9,exuberantly.ai,available,99.99,99.99,high,low,11,namesilo,,
 9f26a952-94b6-4fa8-b373-f0ea80ba1f3d,gongorist.ai,available,99.99,99.99,high,high,9,namesilo,,
 4c7c1e16-0ecd-479e-be06-9f80e81d9ce3,sculpt.ai,resell,,,high,low,6,Deep Vision Architects,22/02/2019 02:43,22/02/2027 02:43
 8f9ab3e2-ab34-4b85-92a3-b8373a2d2d27,antepast.ai,available,80,80,high,low,8,cloudflare,,
@@ -37,6 +38,7 @@ a7ec0686-2c77-4c46-8982-10c196a80d58,unprecedented.ai,resell,,,high,low,13,,,
 d70ad649-071e-4cb9-a8e1-74d208641b43,alphameric.ai,available,89.98,114.98,high,low,10,namecheap,,
 8cdb1ece-d022-47b2-9dd9-a61a69901ada,goldbeating.ai,available,,,high,high,12,,,
 ab444947-dcd0-4cc9-801f-b0f428411602,vernix.ai,available,80,80,high,low,6,cloudflare,,
+bbccf0c3-a451-4519-9d9b-1f671fdac77e,benefactress.ai,available,80,80,high,low,12,cloudflare,,
 93e83f6a-24f8-4386-8002-5577ef172faf,implicit.ai,resell,,,high,medium,8,Deep Vision Architects,16/12/2017 03:31,18/08/2027 03:31
 7a971551-6847-42d6-ae2a-e0f46b3633c1,punks.ai,resell,,,high,low,5,"NameCheap, Inc.",16/07/2025 22:53,16/07/2027 22:53
 0a026541-b1cd-456a-988a-f7bba2eb985a,fiery.ai,resell,,,high,low,5,"NameCheap, Inc.",28/03/2020 12:44,28/03/2028 12:44
@@ -67,6 +69,7 @@ dfde4ba9-d164-49ff-9407-267e17e1a148,generalist.ai,resell,,,high,low,10,,,
 b290dca8-418d-482f-b22d-921b6f9cc410,niu.ai,resell,,,high,low,3,,,
 c5ed32c2-8f28-41b1-a0cc-3109097395e7,harlequinize.ai,available,79.98,79.98,high,low,12,spaceship,,
 e1ba5c52-ddd9-4eb1-95b9-c2024c876b27,underfed.ai,available,90,114.98,high,low,8,unstoppable,,
+f58cd143-7663-428e-a9bf-fa8159cb8e44,viscerotonic.ai,available,90,,high,low,12,unstoppable,,
 c85cb4fd-0321-4717-8abf-51d6fda1cfc1,sunglasses.ai,resell,,,high,low,10,"NameCheap, Inc.",07/06/2020 21:03,07/06/2028 21:03
 fafe7c9d-9977-4e30-b66d-7c734cb3face,worksite.ai,resell,,,high,low,8,,,
 bb63bc13-56ee-42d8-92fd-4d5fe9ce5d9c,typographic.ai,resell,,,high,low,11,,,
@@ -186,7 +189,7 @@ ab1576ca-d978-40ca-966f-57582bd37d00,horned.ai,available,85.6,85.6,high,low,6,dy
 4fb60ce9-69d6-4e21-bfd1-c3c01717149c,rsl.ai,resell,,,high,low,3,,,
 40fb36a6-fa57-4462-baf2-587f1fbce932,einclusion.ai,available,82.7,82.7,high,low,11,porkbun,,
 6ede7687-7ab8-4672-ac61-9a009c88acc6,congreve.ai,available,90,,high,low,8,unstoppable,,
-1bee1653-b04d-4a11-b220-4b70e78319b0,busking.ai,available,,,high,low,7,,,
+1bee1653-b04d-4a11-b220-4b70e78319b0,busking.ai,available,79.98,79.98,high,low,7,spaceship,,
 8d31beb4-d724-465c-b7a2-113462927549,icmp.ai,available,79.98,79.98,high,low,4,spaceship,,
 793acce1-0653-4a32-a128-cc37619d0a48,absorptiometry.ai,available,89.98,114.98,high,high,14,namecheap,,
 d46a48c6-e078-407f-bfff-2c60963099b4,prideful.ai,available,79.98,79.98,high,low,8,spaceship,,
@@ -996,6 +999,3 @@ f0ea85ab-693d-4e91-86c7-4fbeaf0f60a5,capping.ai,available,79.98,79.98,high,low,7
 80bc9c16-639a-4304-9e70-a66ee0817c0a,mountains.ai,resell,,,high,low,9,"NameCheap, Inc.",13/08/2025 20:38,13/08/2027 20:38
 18d3eb8d-707f-46bd-bdc5-df9199e35ef4,aecium.ai,available,79.98,79.98,high,low,6,spaceship,,
 b12f8269-32a5-4013-92d1-0984e1900919,pansensitive.ai,available,79.98,79.98,high,low,12,spaceship,,
-3736bb71-4251-45cc-983f-886b0bfe2855,pergolas.ai,available,,,high,medium,8,,,
-7961f27d-f3b3-4793-a1f0-668ae45451f1,donepezil.ai,available,85.6,85.6,high,low,9,dynadot,,
-77da6781-469e-47e6-8b9b-bc7eaac81397,magnolias.ai,available,,,high,medium,9,,,

@@ -1,6 +1,6 @@
 # Available .AI One-Word Domains
 
-35,541 one-word .ai names are free to register today. Cheapest first year $79.98 at Spaceship, renewal $79.98 there. 3,539 .ai sales in the last 12 months, median $814.
+35,542 one-word .ai names are free to register today. Cheapest first year $79.98 at Spaceship, renewal $79.98 there. 3,533 .ai sales in the last 12 months, median $811.
 
 Live page: [unique.domains/tld/ai](https://unique.domains/tld/ai?utm_source=github&utm_medium=referral&utm_campaign=repo_ai_oneword_domains&utm_content=top_tld_page)
 
@@ -38,12 +38,12 @@ The first 20 rows of the file, in the file's order.
 | emea.ai           | resell    | —              | —             | high           | low    | 4      |
 | despatch.ai       | resell    | —              | —             | high           | low    | 8      |
 | epigraph.ai       | resell    | —              | —             | high           | low    | 8      |
-| retailer.ai       | resell    | —              | —             | high           | low    | 8      |
 | unidirectional.ai | available | $79.98         | $79.98        | high           | high   | 14     |
 | savour.ai         | resell    | —              | —             | high           | low    | 6      |
 | autoimmune.ai     | resell    | —              | —             | high           | low    | 10     |
-| duplicating.ai    | available | $99.99         | $99.99        | high           | low    | 11     |
+| duplicating.ai    | available | $90            | $99.99        | high           | low    | 11     |
 | microohms.ai      | available | —              | —             | high           | low    | 10     |
+| tempests.ai       | available | —              | —             | high           | low    | 8      |
 
 ## What is in the data
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 18,619 names in the live list today.
+- The files hold 1,000 rows of the 18,524 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 

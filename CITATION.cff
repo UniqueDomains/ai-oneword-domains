@@ -3,10 +3,10 @@ message: "If you use this dataset, please cite it using the metadata below."
 title: "One-word .ai domains"
 type: dataset
 authors:
-  - name: "Unique Domains"
-version: "2026-11-12"
-date-released: "2026-11-12"
+  - name: "Unique.domains"
+version: "2026-11-13"
+date-released: "2026-11-13"
 url: "https://unique.domains/tld/ai"
 repository-code: "https://github.com/UniqueDomains/ai-oneword-domains"
 license: CC-BY-4.0
-abstract: "Daily-updated public extract of available and resale .ai one-word domains from Unique Domains."
+abstract: "Daily-updated public extract of available and resale .ai one-word domains from Unique.domains."

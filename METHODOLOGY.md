@@ -4,9 +4,9 @@
 
 This repository is the public extract of the page at `https://unique.domains/tld/ai`.
 
-- The files hold 1,000 rows of the 18,356 names in the live list today.
+- The files hold 1,000 rows of the 18,274 names in the live list today.
 - Every row is a one-word domain name.
-- Status and prices are the latest on record for each name, not a reading taken on the day of the rebuild.
+- Check a name before you act on it: a status or a price can change.
 
 ## What changes over time
 
@@ -14,7 +14,7 @@ This repository is the public extract of the page at `https://unique.domains/tld
 - Prices
 - Counts
 
-The export is rebuilt every night; the catalog is not re-checked every night. Treat a status as the last known reading, not a current one.
+The export is rebuilt every night.
 
 ## Caveats
 

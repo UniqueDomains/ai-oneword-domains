@@ -1,7 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 d7dbb6c3-4018-4036-8d20-8780045e40c9,exuberantly.ai,available,99.99,99.99,high,low,11,namesilo,,
 9f26a952-94b6-4fa8-b373-f0ea80ba1f3d,gongorist.ai,available,99.99,99.99,high,high,9,namesilo,,
-4c7c1e16-0ecd-479e-be06-9f80e81d9ce3,sculpt.ai,resell,,,high,low,6,Deep Vision Architects,22/02/2019 02:43,22/02/2027 02:43
 8f9ab3e2-ab34-4b85-92a3-b8373a2d2d27,antepast.ai,available,80,80,high,low,8,cloudflare,,
 8c9174d4-15c9-46ec-b1c5-015ec737b35d,sensors.ai,resell,,,high,low,7,"GoDaddy.com, LLC",16/12/2017 02:40,10/11/2027 02:40
 16b2af38-fd93-419c-bb78-fc7a9a9c5c1a,halleluja.ai,available,79.98,79.98,high,low,9,spaceship,,
@@ -143,7 +142,6 @@ ef6c575e-b341-456a-bc51-f88181961c56,khadir.ai,available,99.99,99.99,high,low,6,
 7ba99152-8956-4aaf-afe9-c7e27da9f2e2,silences.ai,available,99.99,99.99,high,low,8,namesilo,,
 1942a95f-0820-4e2a-a2c8-45f5a50e4983,nappe.ai,resell,92.98,,high,low,5,"NameCheap, Inc.",09/10/2025 06:59,09/10/2027 06:59
 bd76d996-a3b9-4ac9-80ab-ac32910b22e6,equalizations.ai,available,,,high,low,13,,,
-f80e2cef-5bdc-4968-843a-b7bfd45747af,rugged.ai,resell,,,high,low,6,"GoDaddy.com, LLC",04/01/2022 17:12,04/01/2028 17:12
 4086c32c-7a66-45a2-bfc7-922dd5b50d94,smudginess.ai,available,90,,high,low,10,unstoppable,,
 a2fd886e-a521-4963-8233-5578823f2a3c,lipoxygenase.ai,available,99.99,99.99,high,low,12,namesilo,,
 649de85a-ba0f-4e12-906d-7743492eff08,ionogram.ai,available,99.99,99.99,high,low,8,namesilo,,
@@ -466,7 +464,6 @@ b8d3c95f-03a1-4590-936a-9d00372daad3,complimentary.ai,resell,,,high,low,13,"GoDa
 ffefd971-c2ec-416c-97c7-ef20fb5b2938,deescalation.ai,available,80,80,high,low,12,cloudflare,,
 f5a999f4-bdee-4aa6-a7e0-a563fbb86d36,lutz.ai,resell,,,high,low,4,,,
 416a28b5-fbfe-4969-a3a0-8dd2828b7827,barking.ai,resell,,,high,low,7,"NameCheap, Inc.",29/09/2025 08:22,29/09/2027 08:22
-a7b371e5-04cd-4cc3-b316-f5f5b568989d,sentimental.ai,resell,,,high,low,11,"NameCheap, Inc.",29/12/2018 10:16,29/12/2026 10:16
 85cfeb8c-6458-4138-8808-d171b4db35e3,insuperably.ai,available,99.99,99.99,high,high,11,namesilo,,
 ceca10c6-c416-414f-a84d-817a9a02143c,courtship.ai,resell,,,high,low,9,"Spaceship, Inc.",19/04/2023 00:16,19/04/2027 00:16
 1e76b297-d4ec-4d7d-8631-21c5eb77b718,numbered.ai,resell,,,high,low,8,,,
@@ -617,6 +614,7 @@ c70835e3-ba66-42d7-922d-dcbf58c9ae8c,latinise.ai,available,99.99,99.99,high,high
 266e8455-db90-4d7f-be84-3ffc90ae4772,flyspeck.ai,available,90,114.98,high,low,8,unstoppable,,
 10e891e0-1b6c-4826-afc9-be0698cb4c76,dissolvable.ai,available,99.99,99.99,high,low,11,namesilo,,
 f645db37-481f-489f-9058-e7db7d8ea3f0,aflutter.ai,available,79.98,79.98,high,low,8,spaceship,,
+ee547548-c010-439f-9958-b445dbad0ef9,planetlike.ai,available,90,,high,low,10,unstoppable,,
 05efb224-c2b3-40dd-b3ad-785d360535c5,needlemaking.ai,available,99.99,99.99,high,high,12,namesilo,,
 f0c51808-0db0-4ee9-8fa5-930aa58023cf,seismographer.ai,available,99.99,99.99,high,high,13,namesilo,,
 f827f1f8-9ddc-4ac4-8e8c-374941dbf56d,irresistible.ai,resell,,,high,low,12,,,
@@ -821,7 +819,7 @@ a20ebcb1-ba6d-400d-b242-e85dd371f6ec,biomelanin.ai,available,79.98,79.98,high,lo
 e78d03cc-61fe-4727-963a-26cdbbbb3260,birthrates.ai,available,,,high,low,10,,,
 64e82429-338d-49cb-bf26-16457a4acad3,cyberlibrary.ai,available,99.99,99.99,high,low,12,namesilo,,
 594b09c2-bfa9-432f-8928-c1553fa79f63,lovebead.ai,available,99.99,99.99,high,low,9,namesilo,,
-f8cd73ba-e36e-4862-847b-90438002b3f6,bewitching.ai,available,99.99,99.99,high,low,10,namesilo,,
+f8cd73ba-e36e-4862-847b-90438002b3f6,bewitching.ai,available,80,80,high,low,10,cloudflare,,
 7bf63751-6abe-4681-86f9-26cc39b7bbc9,tranquilize.ai,resell,,,high,low,11,,,
 acb7e00d-2549-40a8-8248-8cd6a9f51218,comparably.ai,available,80,80,high,low,10,cloudflare,,
 982af8e7-5cdd-4595-9123-c615a95d1892,ironical.ai,available,90,114.98,high,low,8,unstoppable,,
@@ -950,7 +948,6 @@ ca2027e8-7c82-4af0-b041-4fb116d48647,selfsacrifice.ai,available,89.98,114.98,hig
 3e4d2d78-ba55-4765-ae99-5023c8f32719,samvat.ai,available,99.99,99.99,high,low,6,namesilo,,
 e8728c9e-f6bc-459b-86ba-32846e30032d,ginnip.ai,available,,,high,low,6,,,
 95db4470-a0e0-4a9f-b392-6b8f11cb96ff,sle.ai,resell,,,high,low,3,,,
-6c1eeaf8-99b2-41c8-ae8e-8e4a8cbc7007,coda.ai,resell,,,high,low,4,Deep Vision Architects,21/12/2019 21:51,21/12/2027 21:51
 c5c9fee5-30ce-427c-be9a-988500d8819f,deferentially.ai,available,99.99,99.99,high,high,13,namesilo,,
 0fd43191-3575-47f5-8814-61ea4b95e7b0,sufficiences.ai,available,,,high,low,12,,,
 63222968-e7a2-4513-a8e2-8c5775d90561,anklet.ai,resell,,,high,low,6,"Spaceship, Inc.",12/03/2025 22:41,12/03/2027 22:41
@@ -999,3 +996,6 @@ a33a52e4-2283-42fa-94d8-24abe9a63f68,trunklike.ai,available,90,,high,high,10,uns
 48e55da4-d47a-495e-8a19-c6b5f95e3ceb,forthlead.ai,available,90,,high,high,9,unstoppable,,
 7eda3e17-25dd-4960-8090-3ed0eee57b53,cwd.ai,resell,,,high,low,3,,,
 8fe7f022-4e0d-4f17-9305-ecc292041cdb,fuels.ai,resell,,,high,low,5,"Spaceship, Inc.",05/04/2023 00:44,05/04/2027 00:44
+b1eb8e0d-8f2a-4782-a354-804ec948001d,hairbows.ai,available,,,high,low,8,,,
+21f5c59e-1dc1-49d8-8531-994b6ed6cfc0,azelaic.ai,available,99.99,99.99,high,low,7,namesilo,,
+cdf40dce-6678-4403-a674-3ad7e87d6fc7,significate.ai,available,99.99,99.99,high,high,11,namesilo,,

@@ -2,9 +2,9 @@
 
 1,000 real .ai one-word domain names, refreshed every night, each with its status, the price to register or buy it and what it renews at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [79,659 names on .ai](https://unique.domains/tld/ai); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [79,749 names on .ai](https://unique.domains/tld/ai); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-35,545 one-word .ai names are free to register today. Cheapest first year $79.98 at Spaceship, renewal $79.98 there. 3,508 .ai sales in the last 12 months, median $810.
+35,557 one-word .ai names are free to register today. Cheapest first year $79.98 at Spaceship, renewal $79.98 there. 3,499 .ai sales in the last 12 months, median $809.
 
 Live page: [unique.domains/tld/ai](https://unique.domains/tld/ai?utm_source=github&utm_medium=referral&utm_campaign=repo_ai_oneword_domains&utm_content=top_tld_page)
 
@@ -30,7 +30,6 @@ The first 20 rows of the file, in the file's order.
 | ----------------- | --------- | -------------- | ------------- | -------------- | ------ | ------ |
 | exuberantly.ai    | available | $99.99         | $99.99        | high           | low    | 11     |
 | gongorist.ai      | available | $99.99         | $99.99        | high           | high   | 9      |
-| sculpt.ai         | resell    | —              | —             | high           | low    | 6      |
 | antepast.ai       | available | $80            | $80           | high           | low    | 8      |
 | sensors.ai        | resell    | —              | —             | high           | low    | 7      |
 | halleluja.ai      | available | $79.98         | $79.98        | high           | low    | 9      |
@@ -48,6 +47,7 @@ The first 20 rows of the file, in the file's order.
 | microohms.ai      | available | —              | —             | high           | low    | 10     |
 | tempests.ai       | available | —              | —             | high           | low    | 8      |
 | conniving.ai      | available | $79.98         | $79.98        | high           | low    | 9      |
+| imperfectives.ai  | available | —              | —             | high           | low    | 13     |
 
 ## What is in the data
 
@@ -66,7 +66,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 18,171 names in the live list today.
+- The files hold 1,000 rows of the 18,146 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 

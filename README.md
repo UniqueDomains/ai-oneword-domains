@@ -2,9 +2,9 @@
 
 1,000 real .ai one-word domain names, refreshed every night, each with its status, the price to register or buy it and what it renews at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [79,749 names on .ai](https://unique.domains/tld/ai); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [79,940 names on .ai](https://unique.domains/tld/ai); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-35,557 one-word .ai names are free to register today. Cheapest first year $79.98 at Spaceship, renewal $79.98 there. 3,499 .ai sales in the last 12 months, median $809.
+35,569 one-word .ai names are free to register today. Cheapest first year $79.98 at Spaceship, renewal $79.98 there. 3,499 .ai sales in the last 12 months, median $809.
 
 Live page: [unique.domains/tld/ai](https://unique.domains/tld/ai?utm_source=github&utm_medium=referral&utm_campaign=repo_ai_oneword_domains&utm_content=top_tld_page)
 
@@ -43,7 +43,7 @@ The first 20 rows of the file, in the file's order.
 | epigraph.ai       | resell    | —              | —             | high           | low    | 8      |
 | unidirectional.ai | available | $79.98         | $79.98        | high           | high   | 14     |
 | autoimmune.ai     | resell    | —              | —             | high           | low    | 10     |
-| duplicating.ai    | available | $79.98         | $79.98        | high           | low    | 11     |
+| duplicating.ai    | available | $80            | $80           | high           | low    | 11     |
 | microohms.ai      | available | —              | —             | high           | low    | 10     |
 | tempests.ai       | available | —              | —             | high           | low    | 8      |
 | conniving.ai      | available | $79.98         | $79.98        | high           | low    | 9      |
@@ -66,7 +66,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 18,146 names in the live list today.
+- The files hold 1,000 rows of the 18,086 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 

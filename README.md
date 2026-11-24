@@ -4,9 +4,9 @@
 
 1,000 real .ai one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [80,085 names on .ai](https://unique.domains/tld/ai); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [80,168 names on .ai](https://unique.domains/tld/ai); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-35,973 one-word .ai names are free to register today. Cheapest first year $79.98 at Spaceship, renewal $79.98 there. 3,468 .ai sales in the last 12 months, median $801.
+36,001 one-word .ai names are free to register today. Cheapest first year $79.98 at Spaceship, renewal $79.98 there. 3,468 .ai sales in the last 12 months, median $801.
 
 Live page: [unique.domains/tld/ai](https://unique.domains/tld/ai?utm_source=github&utm_medium=referral&utm_campaign=repo_ai_oneword_domains&utm_content=top_tld_page)
 
@@ -23,6 +23,8 @@ import pandas as pd
 df = pd.read_csv("https://raw.githubusercontent.com/UniqueDomains/ai-oneword-domains/main/ai.csv")
 print(df.head())
 ```
+
+Also on Kaggle, with every ending: [One-Word Domains by Ending](https://www.kaggle.com/datasets/uniquedomains/one-word-domains-by-ending).
 
 ## Sample rows
 
@@ -68,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 18,129 names in the live list today.
+- The files hold 1,000 rows of the 18,105 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 

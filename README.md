@@ -4,9 +4,9 @@
 
 1,000 real .ai one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [80,168 names on .ai](https://unique.domains/tld/ai); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [80,366 names on .ai](https://unique.domains/tld/ai); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-36,001 one-word .ai names are free to register today. Cheapest first year $79.98 at Spaceship, renewal $79.98 there. 3,468 .ai sales in the last 12 months, median $801.
+36,001 one-word .ai names are free to register today. Cheapest first year $79.98 at Spaceship, renewal $79.98 there. 3,466 .ai sales in the last 12 months, median $800.
 
 Live page: [unique.domains/tld/ai](https://unique.domains/tld/ai?utm_source=github&utm_medium=referral&utm_campaign=repo_ai_oneword_domains&utm_content=top_tld_page)
 
@@ -45,7 +45,7 @@ The first 20 rows of the file, in the file's order.
 | despatch.ai       | resell    | —              | —             | high           | low    | 8      |
 | epigraph.ai       | resell    | —              | —             | high           | low    | 8      |
 | unidirectional.ai | available | $79.98         | $79.98        | high           | high   | 14     |
-| duplicating.ai    | available | $80            | $80           | high           | low    | 11     |
+| duplicating.ai    | available | $79.98         | $79.98        | high           | low    | 11     |
 | microohms.ai      | available | —              | —             | high           | low    | 10     |
 | tempests.ai       | available | —              | —             | high           | low    | 8      |
 | conniving.ai      | available | $79.98         | $79.98        | high           | low    | 9      |
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 18,105 names in the live list today.
+- The files hold 1,000 rows of the 18,068 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
@@ -112,7 +112,7 @@ Every ending Unique.domains tracks: [unique.domains/tld](https://unique.domains/
 
 [Unique.domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_ai_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts.
 
-From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install @uniquedomains/sdk`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
+From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install domain-name-api`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
 
 Questions and corrections: `kai@unique.domains`
 

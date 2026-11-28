@@ -4,7 +4,7 @@
 
 This repository is the public extract of the page at `https://unique.domains/tld/ai`.
 
-- The files hold 1,000 rows of the 18,211 names in the live list today.
+- The files hold 1,000 rows of the 18,217 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
